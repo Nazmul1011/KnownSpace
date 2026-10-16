@@ -1,0 +1,89 @@
+/* maker's credit */
+.studio-credit {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12.5px;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  white-space: nowrap;
+  text-decoration: none;
+  color: var(--ink-3);
+}
+.studio-credit-name {
+  color: var(--gr8r);
+  font-weight: 600;
+}
+.studio-credit-arrow {
+  color: var(--gr8r);
+  transition: transform 0.25s var(--ease-out);
+}
+.studio-credit:hover .studio-credit-name,
+.studio-credit:hover .studio-credit-arrow {
+  color: var(--gr8r-hover);
+}
+.studio-credit:hover .studio-credit-arrow {
+  transform: translate(1px, -1px);
+}
+.wordmark {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+}
+.wordmark-text {
+  font-size: 16px;
+  font-weight: 660;
+  letter-spacing: -0.03em;
+}
+.mark {
+  display: block;
+  flex: none;
+}
+
+/* the mark: the sun rises over the horizon and the waves draw in — twice, then it rests */
+.mark.is-animated .mark-sun {
+  animation: mark-rise 2.4s cubic-bezier(0.22, 1, 0.36, 1) 0.3s 2 both;
+}
+.mark.is-animated .mark-wave {
+  stroke-dasharray: 1;
+  animation: mark-draw 2.4s cubic-bezier(0.65, 0, 0.35, 1) 0.3s 2 both;
+}
+.mark.is-animated .mark-wave--2 {
+  animation-delay: 0.5s;
+}
+@keyframes mark-rise {
+  0% {
+    transform: translateY(9px);
+    opacity: 0;
+  }
+  45%,
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes mark-draw {
+  0% {
+    stroke-dashoffset: 1;
+  }
+  55%,
+  100% {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* loading: the same rise and draw, on a loop until the page is ready */
+.mark.is-loading .mark-sun {
+  animation: mark-rise 1.8s cubic-bezier(0.22, 1, 0.36, 1) infinite both;
+}
+.mark.is-loading .mark-wave {
+  stroke-dasharray: 1;
+  animation: mark-draw 1.8s cubic-bezier(0.65, 0, 0.35, 1) infinite both;
+}
+.mark.is-loading .mark-wave--2 {
+  animation-delay: 0.2s;
+}
+[data-reduced] .mark .mark-sun,
+[data-reduced] .mark .mark-wave {
+  animation: none;
+}

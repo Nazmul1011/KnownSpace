@@ -1,0 +1,383 @@
+animals | ant-traffic | Why ants never get stuck in traffic
+animals | antlers-regrow | Deer grow a new set of bone antlers every year
+animals | beaver-teeth | Why beaver teeth are bright orange
+animals | bird-migration | How birds find their way across continents
+animals | cats-land | Why cats land on their feet
+animals | cats-purr | Why do cats purr?
+animals | crows-faces | Crows remember faces and warn each other
+animals | cuttlefish-colour | Cuttlefish change colour, yet they are colour-blind
+animals | dolphin-sleep | Dolphins sleep with half their brain at a time
+animals | egg-shapes | Why birds lay eggs in so many shapes
+animals | electric-eel | Electric eels are not eels at all
+animals | gecko-feet | How a gecko walks up glass without glue
+animals | giant-squid-eyes | The largest eyes in the animal kingdom
+animals | greenland-shark | The shark that can live for centuries
+animals | hermit-crab-swap | Hermit crabs queue by size to swap shells
+animals | honeybee-dance | Honeybees give directions by dancing
+animals | hummingbird-hover | How a hummingbird hovers
+animals | immortal-jellyfish | The jellyfish that can age in reverse
+animals | mantis-shrimp-punch | A mantis shrimp strikes twice with every punch
+animals | narwhal-tusk | The narwhal's tusk is a single spiralling tooth
+animals | nautilus-shell | How a nautilus floats like a submarine
+animals | nematodes | The most numerous animals are worms you never see
+animals | octopus-color | How an octopus changes colour in a blink
+animals | owl-silent-flight | How owls fly almost without a sound
+animals | peacock-feather | A peacock's blue contains no blue pigment
+animals | periodical-cicadas | Why some cicadas wait 17 years to emerge
+animals | pit-viper-heat | How rattlesnakes 'see' heat in the dark
+animals | platypus-bill | The platypus hunts with its eyes shut
+animals | pufferfish-circles | A pufferfish that sculpts circles in the sand
+animals | red-crab-migration | The island where millions of crabs follow the Moon
+animals | shark-teeth | Why fossil shark teeth are so common
+animals | snail-coil | Most snail shells coil the same way
+animals | spider-silk | The spider that spins the toughest silk known
+animals | starfish-seawater | Starfish run on seawater instead of blood
+animals | synchronous-fireflies | Thousands of fireflies that flash in unison
+animals | tardigrade | The tiny animal that survived open space
+animals | trex-skull | Why a T. rex skull is full of holes
+animals | trilobite-eyes | Trilobites looked out through crystal lenses
+animals | whale-song | How whales talk across an ocean
+animals | wood-frog-freeze | The frog that freezes solid every winter
+animals | woodpecker-skull | How woodpeckers survive hammering their heads
+animals | zebra-stripes | What are a zebra's stripes actually for?
+architecture | bridges-weight | How a bridge carries its own weight
+architecture | burj-khalifa-wind | The Burj Khalifa is shaped to break up the wind
+architecture | djenne-mosque | A mosque that its whole town replasters every year
+architecture | flying-buttress | Why Gothic cathedrals wear their bones outside
+architecture | gateway-arch-catenary | The Gateway Arch is an upside-down hanging chain
+architecture | hoover-dam-cooling | Hoover Dam was built with its own refrigeration plant
+architecture | igloo-warmth | Why the inside of an igloo can be warm
+architecture | ny-setbacks | Why old New York towers step back like wedding cakes
+architecture | old-window-glass | Old window glass is not slowly flowing
+architecture | pagoda-shinbashira | Why Japan's wooden pagodas rarely fall in earthquakes
+architecture | pantheon-dome | The Pantheon's dome has stood 1,900 years without steel
+architecture | pisa | The Leaning Tower was saved by removing soil
+architecture | reinforced-concrete | Concrete needs steel inside because it hates being stretched
+architecture | sticky-rice-mortar | Ancient Chinese builders mixed sticky rice into mortar
+architecture | sydney-opera-sphere | The Sydney Opera House roof was cut from one sphere
+architecture | taipei-101-damper | A 660-tonne ball keeps Taipei 101 steady
+architecture | tall-ceilings | Why old buildings have such tall ceilings
+architecture | termite-eastgate | A building that copied termites, and what termites really do
+architecture | thatched-roof | How a roof of straw keeps out the rain
+architecture | window-tax | Were old windows bricked up to dodge a tax?
+body | bacteria-ratio | You are not outnumbered ten to one by your bacteria
+body | blind-spot | Each of your eyes has a blind spot you never notice
+body | blue-eyes | Blue eyes contain no blue pigment
+body | body-clock | Your cells keep time with a 24-hour molecular clock
+body | body-glow | Your body gives off light too faint to see
+body | brain-energy | Your brain burns a fifth of your energy
+body | color-vision | Colour is something your brain makes
+body | ear-bones-jaw | Two of your ear bones were once part of a jaw
+body | fingerprints | Why no two fingerprints match
+body | goosebumps | Goosebumps are your body trying to fluff up fur
+body | growth-plates | Oestrogen is what stops you growing, in men as well as women
+body | hiccups | A hiccup is your vocal cords slamming shut
+body | red-blood-cells | Your marrow makes over two million red blood cells a second
+body | rem-sleep-paralysis | Your body is briefly paralysed every night
+body | smell-trillion | Can your nose really tell a trillion smells apart?
+body | spinning-dizzy | Why the room keeps spinning after you stop
+body | stomach-rumble | Your stomach growls as it sweeps itself clean
+body | stomach-self-digest | Why your stomach doesn't digest itself
+body | sun-sneeze | Bright sunlight makes about one in four people sneeze
+body | sweat-smell | Fresh sweat has almost no smell
+body | tongue-map-myth | The tongue map is a myth: every taste is sensed everywhere
+body | vaccines | How a vaccine teaches your immune system
+body | voice-recording | Why your recorded voice sounds strange
+body | why-we-yawn | Yawning is probably not about getting more oxygen
+body | wrinkly-fingers | Bath-wrinkled fingers are made by your nerves
+business | banks-create-money | Most money is created by banks when they lend
+business | card-payment-settlement | When you tap for a coffee, the money moves later
+business | cash-register-bell | The cash register's bell was there to keep staff honest
+business | in-store-music | French music on the speakers sold more French wine
+business | legal-tender | A shop can legally refuse your £50 note
+business | lego-1958 | A 1958 LEGO brick still fits one made today
+business | lloyds-coffee-house | A London coffee house grew into a giant insurance market
+business | milk-at-back | Why the milk is at the back of the shop
+business | new-coke | New Coke lasted 79 days before the original came back
+business | penny-cost | A US cent cost nearly four cents to make
+business | price-99 | Why so many prices end in .99
+business | razor-blades-myth | Gillette didn't give away razors to sell blades
+business | shopping-trolley | The first shopping trolley was a folding frame for two baskets
+business | shrinkflation | Shrinkflation: when the pack gets smaller but the price stays
+business | tulip-mania | Tulip mania was real, but the ruin is mostly legend
+culture | bone-flutes | The oldest known instruments are Ice Age bone flutes
+culture | calendar-1752 | Britain skipped 11 days in September 1752
+culture | chess-queen | The chess queen began as the weakest piece on the board
+culture | concert-pitch | Concert pitch was only fixed at 440 Hz in 1939
+culture | dove-peace-symbol | How the dove became the sign of peace
+culture | gamelan-tuning | Balinese gamelan is tuned slightly apart on purpose
+culture | hangul | Korean letters were designed to show the mouth shaping sounds
+culture | huh-universal | 'Huh?' may be a word in every spoken language
+culture | icelandic-names | In Iceland, new first names need official approval
+culture | languages-endangered | Many of the world's languages are endangered
+culture | letter-a-ox | The letter A began as the head of an ox
+culture | lunar-new-year | Why Lunar New Year lands on a different day each year
+culture | prayer-beads-counting | The word 'bead' once meant 'prayer'
+culture | silbo-gomero | An island where people talk in whistles
+culture | stradivarius-test | In blind tests, top violinists often prefer new violins
+culture | tarot-card-game | Tarot cards were invented for a card game, not fortunes
+culture | telephone-words | Why we still 'dial' and 'hang up'
+design | a-paper-sizes | Why A4 paper is such an odd size
+design | colour-blind-charts | Why designers avoid relying on red and green
+design | contrast-ratio | Pale grey text fails a simple contrast test
+design | emoji-unicode | An emoji is a letter, drawn differently everywhere
+design | fitts-law-edges | The easiest button to hit is at the edge of the screen
+design | golden-ratio | The golden ratio is mostly a design myth
+design | helvetica | Helvetica was first called Neue Haas Grotesk
+design | lorem-ipsum-cicero | Lorem ipsum is scrambled Cicero
+design | phone-keypad-layout | Why phone and calculator keypads are upside down
+design | road-sign-shapes | Road signs speak in shapes before words
+design | serif-readability | Do serifs actually make text easier to read?
+design | stop-sign | Why stop signs are octagons
+design | tactile-paving | The bumps at a crossing are a code underfoot
+design | tube-map-diagram | The Tube map was drawn like an electrical circuit
+design | ultramarine-gold | The blue that once cost more than gold
+everyday | airplane-windows | Why airplane windows are rounded
+everyday | candle-flame | A candle burns wax vapour, not wax
+everyday | crown-cap | The bottle cap once had 24 teeth, not 21
+everyday | dishwasher-china | The dishwasher was invented to stop china chipping
+everyday | elevator-floors | How an elevator knows which floor it is on
+everyday | fridge-magnet | Why a fridge magnet only sticks on one side
+everyday | fridge-moves-heat | A fridge does not make cold; it moves heat
+everyday | kettle-whistle | A kettle whistle sings in two different ways
+everyday | memory-foam | Memory foam was made for aeroplane seats
+everyday | microwave | How a microwave really heats food
+everyday | non-stick-pan | How do you make non-stick stick to the pan?
+everyday | pencil-graphite | There has never been lead in a pencil
+everyday | pin-tumbler-lock | The hidden pins that read your front-door key
+everyday | plughole-swirl | Your sink does not drain the other way in Australia
+everyday | pressure-cooker | A pressure cooker cooks hotter, not just faster
+everyday | sink-trap | The bend under your sink is a water lock
+everyday | smoke-alarm | Many smoke alarms hold a speck of radioactive metal
+everyday | toast-butter-side | Toast really does tend to land butter-side down
+everyday | vacuum-flask | The vacuum flask was built for liquid air, not tea
+everyday | zipper | How a zipper actually zips
+food | altitude-boiling | Why boiling water is cooler on a mountain
+food | apples-kazakhstan | The sweet apple's wild ancestor grows in Kazakhstan
+food | avocado-megafauna | The avocado's big seed may be built for vanished giants
+food | black-pepper | Black pepper was once traded like money
+food | brassica-one-species | Cabbage, broccoli and kale are the same plant species
+food | bread-stale | Bread goes stale faster in the fridge
+food | cacao-fermentation | Chocolate flavour starts with fermenting fruit pulp
+food | carrots-purple | The first cultivated carrots were purple and yellow
+food | cashew-apple | A cashew grows dangling beneath a juicy false fruit
+food | cheese-holes | The holes in Swiss cheese start with specks of hay
+food | chili-heat | Why chilli burns (and birds don't care)
+food | coffee-cherry | A coffee bean is the seed of a fruit
+food | coriander-soap | Why coriander tastes of soap to some people
+food | flavour-smell | Most of what you call taste is really smell
+food | honey-spoil | Why honey almost never spoils
+food | jackfruit-giant | The largest tree fruit can weigh as much as 50 kilograms
+food | maillard-browning | The reaction that browns toast, steak and coffee
+food | miracle-berry | A berry that makes lemons taste sweet
+food | nutmeg-banda | For centuries, nearly all nutmeg came from these tiny islands
+food | oldest-bread | People were baking bread before they farmed
+food | onions-cry | Why onions make you cry
+food | orange-hybrid | The orange is a hybrid, not a wild fruit
+food | passion-fruit-name | Passion fruit is named after a flower, not a feeling
+food | pineapple-enzyme | Why fresh pineapple stops jelly from setting
+food | popcorn-pops | Why does popcorn pop?
+food | saffron-crocus | Every saffron crocus is a clone of one ancient plant
+food | sourdough-starter | A sourdough starter is a tiny wild ecosystem
+food | strawberry-not-berry | A strawberry is not a berry, but a banana is
+food | tea-one-plant | Green, black and oolong tea come from one plant
+food | tomato-court | The US Supreme Court once ruled tomatoes are vegetables
+food | umami-kombu | Umami was named after a bowl of kelp broth
+food | vanilla-orchid | Vanilla comes from an orchid pollinated by hand
+geography | africa-splitting | Africa is slowly tearing in two
+geography | antarctica-desert | The largest desert on Earth is covered in ice
+geography | baarle-border | A town where the border runs through living rooms
+geography | chimborazo-summit | Earth's farthest point from its centre is not on Everest
+geography | coastline-paradox | A coastline has no true length
+geography | dead-sea | Why you can't sink in the Dead Sea
+geography | diomede-islands | Two islands 3.8 km apart are almost a day apart
+geography | everest-seafloor | The top of Everest was once the floor of a tropical sea
+geography | hawaii-hotspot | Hawaii is a conveyor belt of volcanoes
+geography | lake-baikal | One Siberian lake holds a fifth of Earth's unfrozen fresh water
+geography | mercator-greenland | Greenland is not as big as Africa, whatever the map says
+geography | point-nemo | The loneliest spot in the ocean is a spacecraft graveyard
+geography | river-meanders | Why rivers wind in loops instead of running straight
+geography | sahara-dust | The Sahara fertilises the Amazon rainforest
+geography | sargasso-sea | The only sea with no coastline
+geography | surtsey | The island that rose from the sea in 1963
+geography | tectonic-plates | Continents drift about as fast as fingernails grow
+geography | underwater-waterfall | The world's largest waterfall is under the sea
+geography | volcanic-lightning | Lightning born inside a volcano's ash cloud
+geography | volcano-eruption | Why volcanoes erupt
+history | antikythera | A 2,000-year-old computer from a shipwreck
+history | birch-tar-chewing-gum | Stone Age chewing gum preserved its chewer's DNA
+history | chained-libraries | Why old libraries chained their books
+history | cuneiform | The first writing was mostly receipts
+history | damascus-steel | The lost recipe for Damascus steel
+history | egyptian-toe-socks | Ancient Egyptians wore stripy socks with sandals
+history | greek-statues-painted | Greek statues were never meant to be white
+history | here-be-dragons | Old maps almost never said 'here be dragons'
+history | inca-khipu | The Inca kept their accounts in knotted string
+history | iron-gall-ink | For centuries, ink was made from wasp galls
+history | lycurgus-cup | A Roman cup that changes colour in the light
+history | nebra-sky-disc | A bronze disc that may be the oldest map of the sky
+history | oldest-leather-shoe | A 5,500-year-old shoe from an Armenian cave
+history | otzi-iceman-kit | The Iceman's kit survived 5,300 years in a glacier
+history | pompeii-street-food | Pompeii had around 80 street-food counters
+history | pyramid-builders | Who really built the pyramids
+history | roman-concrete | Why Roman concrete outlasts ours
+history | roman-hours | A Roman hour could last 45 or 75 minutes
+history | roman-latrines | Roman public toilets had no walls between seats
+history | roman-vomitorium | A vomitorium was an exit, not a room for vomiting
+history | royal-game-of-ur | We know the rules of a 4,500-year-old board game
+history | sphinx-carved | The Great Sphinx was carved, not built
+history | stonehenge-altar-stone | Stonehenge's Altar Stone came from northern Scotland
+history | viking-horned-helmets | Vikings never wore horned helmets
+history | viking-sunstone | Did Vikings find the sun with a crystal?
+history | vindolanda-birthday-invitation | A Roman birthday invitation written 1,900 years ago
+inventions | aluminium-precious-metal | Aluminium was once a precious metal
+inventions | bakelite-shellac | The first synthetic plastic replaced an insect resin
+inventions | carborundum-accident | Carborundum began as a few shiny specks
+inventions | early-electric-cars | Around 1900, a third of cars were electric
+inventions | hero-steam-engine | A steam engine spun in Roman Egypt
+inventions | medieval-spectacles | The unknown inventor of eyeglasses
+inventions | oldest-wheel | The oldest known wooden wheel came from a marsh
+inventions | paper-clip-myth | Norway didn't invent the paper clip
+inventions | perkin-mauve | A failed attempt to make quinine created mauve
+inventions | play-doh-wallpaper-cleaner | Play-Doh started out as wallpaper cleaner
+inventions | post-it | The Post-it began as a failed glue
+inventions | printing-press | Movable type was invented twice
+inventions | roman-multitool | The Romans had a pocket multi-tool
+inventions | snow-goggles | Arctic peoples carved sunglasses 1,000 years ago
+inventions | velcro | Velcro was copied from a weed
+nature | ancient-date-seed | A 2,000-year-old seed grew into a date palm
+nature | autumn-leaves | Autumn yellow was hiding in the leaf all summer
+nature | bamboo-flowering | Some bamboo flowers once a century, all at the same time
+nature | bananas-curve | Why are bananas curved?
+nature | bioluminescence | Why so much of the deep sea glows
+nature | cloud-weight | A small fluffy cloud holds hundreds of tonnes of water
+nature | coco-de-mer | The largest seed on Earth was once thought to grow undersea
+nature | dandelion-flight | A dandelion seed flies using a hidden bubble of air
+nature | fairy-rings | Fairy rings are fungi that grow outwards for centuries
+nature | hailstones | Cut a hailstone open and you find layers like an onion
+nature | lichen | A lichen is not one organism but a partnership
+nature | mushrooms-mycelium | A mushroom is only the tip of the organism
+nature | noctilucent-clouds | The highest clouds on Earth glow at midnight
+nature | pando | This Utah forest is a single living organism
+nature | peatlands | Bogs hold more carbon than all the world's forests
+nature | petrichor | The smell of rain is mostly made by soil bacteria
+nature | pine-cones-open | Pine cones open and close long after they die
+nature | seed-vault | A vault in an Arctic mountain backs up the world's crops
+nature | snowflake-shapes | A snowflake's shape records the air it fell through
+nature | sunflowers-face-east | Grown sunflowers stop following the sun
+nature | tree-rings | Tree rings keep a climate diary 12,000 years long
+nature | trees-communicate | Do trees really talk to each other?
+nature | trees-water | How a tree lifts water 100 metres without a pump
+nature | venus-flytrap | A Venus flytrap counts before it snaps shut
+nature | welwitschia | This desert plant grows just two leaves in its whole life
+psychology | anchoring-effect | A spin of a rigged wheel can sway your best guess
+psychology | asch-conformity | In the famous conformity test, most answers held firm
+psychology | bystander-intervention | In real street conflicts, someone almost always steps in
+psychology | cafe-wall-illusion | A Bristol café wall made straight lines look tilted
+psychology | checker-shadow-illusion | Two squares of the same grey that look nothing alike
+psychology | childhood-amnesia | Almost nobody remembers being a baby
+psychology | choice-overload | The famous jam study is shakier than it sounds
+psychology | doorway-effect | Why you forget why you walked into a room
+psychology | dream-forgetting | Most dreams are gone within minutes of waking
+psychology | face-pareidolia | Why you see faces in keyholes, plugs and clouds
+psychology | facial-feedback | Can holding a pen in your teeth make you happier?
+psychology | frequency-illusion | Why a new word suddenly appears everywhere
+psychology | habit-formation-time | New habits take far longer than 21 days to form
+psychology | hollow-face-illusion | Why a hollow mask seems to bulge towards you
+psychology | hot-hand | The hot hand may not be a fallacy after all
+psychology | invisible-gorilla | Half the viewers missed a gorilla on the basketball court
+psychology | liking-gap | After a chat, strangers like you more than you think
+psychology | lucid-dream-dialogue | Dreamers have answered maths questions from inside a dream
+psychology | mcgurk-effect | Watching lips can change the sound you hear
+psychology | memory-palace | Memory champions store lists in imaginary buildings
+psychology | memory-rebuilt | Every memory is rebuilt when you recall it
+psychology | misinformation-effect | One word in a question can change what a witness remembers
+psychology | moon-illusion | Why the Moon looks huge near the horizon
+psychology | music-chills | Why music can give you chills
+psychology | peak-end-rule | A longer ordeal can be remembered as the kinder one
+psychology | replication-crisis | When psychologists re-ran 100 studies, most effects shrank
+psychology | shepard-tone | A sound that seems to rise forever
+psychology | spacing-effect | Why cramming fails and spacing works
+psychology | time-slows-in-crisis | Time does not really slow down when you are scared
+psychology | working-memory-limit | Your mind juggles about four things at once, not seven
+science | absolute-zero | Nothing can ever be colder than −273.15 °C
+science | brownian-motion | Jiggling specks in water helped prove atoms are real
+science | candle-flame-space | In space, a candle flame becomes a dim blue sphere
+science | coffee-ring | Why spilled coffee dries into a dark ring
+science | copper-green | Why copper roofs and statues turn green
+science | fizzy-bubbles | Why bubbles in a glass rise from the same spots
+science | glow-stick | How a glow stick makes light without heat
+science | gold-yellow | Gold's colour is a side effect of relativity
+science | helium-voice | Helium doesn't actually raise the pitch of your voice
+science | how-soap-works | Soap works by holding on to oil and water at once
+science | ice-floats | Why does ice float?
+science | ice-slippery | Why ice is slippery is still being argued over
+science | leidenfrost | Why water droplets skate on a very hot pan
+science | metal-feels-cold | Why metal feels colder than wood in the same room
+science | mirror-reverse | Do mirrors really flip left and right?
+science | newton-seven-colours | Newton gave the spectrum seven colours to match music
+science | ocean-blue | Why does the ocean look blue?
+science | old-glass-flow | Old windows aren't thick at the bottom because glass flows
+science | oobleck | Cornflour and water turns solid when you hit it
+science | pitch-drop | The experiment that has dripped nine times since 1927
+science | rust | Why iron rusts but gold doesn't
+science | sea-salty | Why the sea is salty but rivers are not
+science | soap-bubble-colours | Why a soap bubble shimmers with colour
+science | spaghetti-snap | Why dry spaghetti almost never snaps in two
+science | static-mystery | Nobody fully understands why rubbing makes static
+science | sunset-colors | Why the sky turns red at sunset
+science | tape-xrays | Peeling sticky tape in a vacuum gives off X-rays
+science | thunder-lightning | Why thunder arrives after lightning
+science | wet-sand-darker | Why wet sand is darker than dry sand
+science | whip-crack | A whip's crack is a tiny sonic boom
+space | andromeda-merger | The Milky Way may not collide with Andromeda
+space | aurora | What paints the northern lights?
+space | betelgeuse-dimming | The winter Betelgeuse faded, and why
+space | black-holes | What actually is a black hole?
+space | carrington-event | The 1859 solar storm that set telegraphs sparking
+space | comet-tails | Why a comet can travel tail first
+space | eclipse-coincidence | Total solar eclipses depend on a cosmic coincidence
+space | europa-ocean | Jupiter's moon Europa may hold more water than Earth
+space | iss-free-fall | Astronauts float because they are falling
+space | jupiter-great-red-spot | Jupiter's Great Red Spot is shrinking
+space | jupiter-rings | Jupiter has rings too, you just cannot see them
+space | light-pollution-milky-way | A third of humanity can no longer see the Milky Way
+space | mars-blue-sunset | Sunsets on Mars are blue
+space | meteors-dust | Most shooting stars are made by specks of dust
+space | moon-same-side | Why we only ever see one side of the Moon
+space | moon-shrinking | The Moon is slowly shrinking
+space | neutron-star-density | A sugar cube of neutron star would outweigh a mountain
+space | pluto-dwarf-planet | Why Pluto lost its place as a planet
+space | polaris-pole-star | The North Star changes over thousands of years
+space | rockets-launch-east | Why rockets launch east, and close to the equator
+space | saturn-rings | What are Saturn's rings made of?
+space | stars-twinkle | Why stars twinkle and planets mostly don't
+space | uranus-sideways | Uranus rolls around the Sun on its side
+space | venus-day-year | A day on Venus lasts longer than its year
+space | voyager-golden-record | Two golden records are leaving the solar system
+space | webb-gold-mirror | Why the Webb telescope's mirror is coated in gold
+technology | authenticator-codes | How a login code app works with no internet connection
+technology | barcode-first-scan | The first barcode scanned at a till was on chewing gum
+technology | bluetooth-name | Bluetooth is named after a Viking-age Danish king
+technology | camera-sensor-colour | Each pixel in your camera sees only one colour
+technology | cloud-data-centres | The cloud is a warehouse full of humming computers
+technology | coffee-pot-webcam | The first webcam watched a Cambridge coffee pot
+technology | computer-bug-moth | The famous moth did not give computers the word 'bug'
+technology | contactless-no-battery | A contactless card has no battery: the reader powers it
+technology | e-ink-screen | An e-reader page needs no power to stay on screen
+technology | first-microprocessor | The first commercial microprocessor had 2,300 transistors
+technology | flash-memory-electrons | Your photos are stored as electrons trapped in tiny cages
+technology | gps | How your phone knows where you are
+technology | home-router-address | Why so many home networks use 192.168 addresses
+technology | https-padlock | The browser padlock never meant a website was safe
+technology | lithium-ion-battery | Charging your phone packs lithium ions into carbon
+technology | noise-cancelling | How noise-cancelling headphones erase sound
+technology | password-hashing | Good websites never actually store your password
+technology | qr-codes | How a QR code survives a coffee stain
+technology | quartz-watch-crystal | A quartz watch counts a crystal ringing 32,768 times a second
+technology | qwerty | Why keyboards are QWERTY
+technology | remote-infrared | Your phone camera can see a TV remote's invisible light
+technology | solar-cell-light | The first practical solar cell powered a toy Ferris wheel
+technology | touchscreen-finger | How a touchscreen feels a fingertip through glass
+technology | undersea-cables | The internet mostly runs under the sea
+technology | white-led-blue | Most white LED bulbs are blue lights in disguise

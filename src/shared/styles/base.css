@@ -1,0 +1,442 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--canvas);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 14px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  overflow: hidden;
+  overscroll-behavior: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+}
+
+input {
+  font: inherit;
+  color: inherit;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+
+:focus {
+  outline: none;
+}
+:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: 3px;
+}
+
+::selection {
+  background: rgba(59, 111, 224, 0.18);
+}
+
+.show-sm {
+  display: none !important;
+}
+@media (max-width: 720px) {
+  .hide-sm {
+    display: none !important;
+  }
+  .show-sm {
+    display: flex !important;
+  }
+}
+
+/* ---------------------------------------------------------------- buttons */
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  height: 38px;
+  padding: 0 16px;
+  border-radius: var(--r-pill);
+  font-size: 13.5px;
+  font-weight: 560;
+  letter-spacing: -0.005em;
+  white-space: nowrap;
+  transition:
+    background-color 0.2s,
+    transform 0.25s var(--ease-out),
+    box-shadow 0.25s;
+}
+.pill:active {
+  transform: scale(0.97);
+}
+.pill--ink {
+  background: var(--ink);
+  color: #fff;
+  box-shadow:
+    0 1px 2px rgba(20, 20, 19, 0.18),
+    0 6px 16px -6px rgba(20, 20, 19, 0.4);
+}
+.pill--ink:hover {
+  background: #2b2b29;
+}
+.pill--glass {
+  background: var(--glass);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-1);
+  color: var(--ink);
+}
+.pill--glass:hover {
+  background: var(--glass-strong);
+}
+.pill--quiet {
+  background: var(--sunk);
+  color: var(--ink-2);
+}
+.pill--quiet:hover {
+  background: var(--sunk-2);
+}
+.pill--lg {
+  height: 48px;
+  padding: 0 22px;
+  font-size: 15px;
+}
+
+.glass-btn {
+  display: grid;
+  place-items: center;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.78);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-1);
+  color: var(--ink-2);
+  transition:
+    background-color 0.2s,
+    transform 0.2s;
+}
+.glass-btn:hover {
+  background: #fff;
+  color: var(--ink);
+}
+.glass-btn.small {
+  width: 30px;
+  height: 30px;
+}
+
+/* links: jade, with a hairline underline that sits well clear of the text */
+a {
+  color: var(--jade);
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-decoration-color: var(--jade-line);
+  text-underline-offset: 0.36em;
+  text-decoration-skip-ink: auto;
+}
+a:hover {
+  color: var(--jade-hover);
+  text-decoration-color: var(--jade-hover);
+}
+
+.text-btn {
+  font-size: 13px;
+  font-weight: 560;
+  color: var(--jade);
+  padding: 4px 0;
+}
+.text-btn:hover {
+  color: var(--jade-hover);
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  height: 30px;
+  padding: 0 12px;
+  border-radius: var(--r-pill);
+  background: var(--sunk);
+  font-size: 13px;
+  color: var(--ink-2);
+  transition: background-color 0.15s;
+}
+.chip:hover {
+  background: var(--sunk-2);
+}
+
+.dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex: none;
+}
+
+.kbd {
+  font: 500 12.5px/1 var(--sans);
+  color: var(--ink-4);
+  background: rgba(20, 20, 19, 0.05);
+  border-radius: 6px;
+  padding: 4px 6px;
+}
+
+/* floating island surface */
+.island {
+  background: var(--glass);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-float);
+}
+
+.popover {
+  background: rgba(255, 255, 255, 0.86);
+  -webkit-backdrop-filter: saturate(1.8) blur(28px);
+  backdrop-filter: saturate(1.8) blur(28px);
+  border-radius: 20px;
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-3);
+}
+
+/* segmented control: frosted white track, solid ink selection */
+.seg {
+  display: inline-flex;
+  padding: 4px;
+  gap: 2px;
+  border-radius: var(--r-pill);
+  background: rgba(255, 255, 255, 0.72);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  box-shadow: 0 0 0 0.5px var(--line);
+}
+.seg button {
+  position: relative;
+  isolation: isolate;
+  height: 32px;
+  padding: 0 14px;
+  border-radius: var(--r-pill);
+  font-size: 13px;
+  font-weight: 560;
+  color: var(--ink-3);
+  transition: color 0.25s var(--ease-out);
+  white-space: nowrap;
+}
+.seg button:hover {
+  color: var(--ink);
+}
+.seg button.is-on {
+  color: #fff;
+}
+/* the selection itself, which slides between buttons (shared/ui/seg-pill.tsx) */
+.seg-pill {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background: var(--ink);
+}
+.seg--small button {
+  height: 28px;
+  padding: 0 11px;
+  font-size: 12.5px;
+}
+.seg-n {
+  font: 500 12.5px var(--sans);
+  opacity: 0.55;
+  margin-left: 7px;
+}
+
+/* glossy icon tile, coloured by --hue */
+.candy {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 3em;
+  height: 3em;
+  border-radius: 0.95em;
+  color: #fff;
+  background:
+    radial-gradient(120% 90% at 30% 0%, rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0) 55%),
+    linear-gradient(165deg, color-mix(in oklab, var(--hue) 78%, white) 0%, var(--hue) 52%, color-mix(in oklab, var(--hue) 82%, black) 100%);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.55),
+    inset 0 -0.15em 0.35em rgba(0, 0, 0, 0.14),
+    0 0.45em 0.9em -0.3em color-mix(in oklab, var(--hue) 70%, transparent),
+    0 0.12em 0.2em rgba(0, 0, 0, 0.08);
+}
+
+/* switch */
+.switch {
+  appearance: none;
+  position: relative;
+  flex: none;
+  width: 38px;
+  height: 22px;
+  border-radius: 99px;
+  background: var(--sunk-2);
+  cursor: pointer;
+  /* same feel as the sliding tab pill: quick start, soft stop */
+  transition: background-color 0.34s var(--ease-out);
+  margin: 0;
+}
+.switch::after {
+  content: '';
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.16);
+  transition:
+    transform 0.36s cubic-bezier(0.25, 1, 0.3, 1),
+    width 0.2s var(--ease-out);
+}
+/* pressing stretches the knob toward where it is going, like iOS */
+.switch:active::after {
+  width: 22px;
+}
+.switch:checked {
+  background: var(--ink);
+}
+.switch:checked::after {
+  transform: translateX(16px);
+}
+.switch:checked:active::after {
+  transform: translateX(12px);
+}
+[data-reduced] .switch,
+[data-reduced] .switch::after {
+  transition: none;
+}
+
+/* shared visuals */
+.v-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+.v-photo {
+  object-fit: cover;
+}
+.v-obj {
+  object-fit: contain;
+}
+.diagram,
+.minimap {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+.minimap-pulse {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: pin-pulse 2.6s var(--ease-out) infinite;
+}
+@keyframes pin-pulse {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.4;
+  }
+  100% {
+    transform: scale(2.2);
+    opacity: 0;
+  }
+}
+
+[data-reduced] *,
+[data-reduced] *::before,
+[data-reduced] *::after {
+  animation-duration: 0.001ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 0.001ms !important;
+}
+
+/* placeholder for a picture that has not been generated yet */
+.v-pending {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  container-type: size;
+}
+.v-pending--photo {
+  background:
+    radial-gradient(90% 70% at 30% 20%, color-mix(in oklab, var(--hue) 16%, white), transparent 70%),
+    radial-gradient(80% 80% at 80% 90%, color-mix(in oklab, var(--hue) 22%, #f3f2ee), transparent 70%), color-mix(in oklab, var(--hue) 9%, #f6f5f1);
+}
+.v-pending-mark {
+  position: absolute;
+  right: -12cqmin;
+  bottom: -14cqmin;
+  width: 78cqmin;
+  height: 78cqmin;
+  color: color-mix(in oklab, var(--hue) 30%, transparent);
+  opacity: 0.55;
+}
+.v-pending-mark svg {
+  width: 100%;
+  height: 100%;
+}
+.v-pending--object .v-pending-mark {
+  display: none;
+}
+.v-pending-icon {
+  position: relative;
+  font-size: min(8.5cqmin, 26px);
+}
+.v-pending--object .v-pending-icon {
+  font-size: min(12cqmin, 34px);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.55),
+    inset 0 -0.15em 0.35em rgba(0, 0, 0, 0.14),
+    0 0.6em 1.2em -0.4em color-mix(in oklab, var(--hue) 70%, transparent),
+    0 0.12em 0.2em rgba(0, 0, 0, 0.08);
+}
+
+/* text for screen readers only */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}

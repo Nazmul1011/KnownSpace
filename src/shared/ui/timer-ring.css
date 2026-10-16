@@ -1,0 +1,19 @@
+.timer-ring {
+  flex: none;
+  transform: rotate(-90deg);
+}
+.timer-ring circle {
+  fill: none;
+  stroke-width: 2;
+}
+.timer-ring-bar {
+  stroke-linecap: round;
+  stroke-dasharray: 1;
+  stroke-dashoffset: 0;
+  animation: timer-countdown 3s linear forwards;
+}
+@keyframes timer-countdown {
+  to {
+    stroke-dashoffset: 1;
+  }
+}

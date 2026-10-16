@@ -1,0 +1,126 @@
+/* ------------------------------------------------------------ celebration */
+
+.celebrate-layer {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+}
+.celebrate-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(246, 245, 241, 0.55);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+}
+.celebrate {
+  position: relative;
+  width: min(440px, 100%);
+  padding: 8px 28px 24px;
+  border-radius: 32px;
+  background: #fff;
+  text-align: center;
+  box-shadow:
+    0 0 0 0.5px rgba(20, 20, 19, 0.08),
+    0 24px 64px rgba(30, 28, 22, 0.14),
+    0 70px 140px rgba(30, 28, 22, 0.1);
+}
+.celebrate-hero {
+  position: relative;
+  display: grid;
+  place-items: center;
+  height: 196px;
+}
+.celebrate-glow {
+  position: absolute;
+  left: 50%;
+  top: 54%;
+  width: 260px;
+  height: 200px;
+  transform: translate(-50%, -50%);
+  background: radial-gradient(closest-side, rgba(250, 214, 140, 0.5), rgba(250, 214, 140, 0));
+}
+.celebrate-medal {
+  position: relative;
+  z-index: 2;
+  width: 168px;
+  height: 168px;
+  object-fit: contain;
+}
+.confetti {
+  position: absolute;
+  left: 50%;
+  top: 52%;
+  width: 0;
+  height: 0;
+  z-index: 1;
+}
+.confetti-piece {
+  position: absolute;
+  left: -15px;
+  top: -7px;
+  display: block;
+}
+.celebrate-title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 0;
+}
+.celebrate-num {
+  display: block;
+  font-size: 64px;
+  font-weight: 720;
+  line-height: 0.95;
+  letter-spacing: -0.05em;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+}
+.celebrate-line {
+  display: block;
+  margin-top: 6px;
+  font-size: 24px;
+  font-weight: 660;
+  line-height: 1.15;
+  letter-spacing: -0.025em;
+}
+.celebrate-earned {
+  margin-top: 8px;
+  font-size: 14.5px;
+  font-weight: 520;
+  color: var(--ink-2);
+}
+.celebrate-thought {
+  margin: 12px auto 0;
+  max-width: 330px;
+  font: italic 400 17px/1.4 var(--serif);
+  color: var(--ink-3);
+  text-wrap: balance;
+}
+.celebrate .medal-track {
+  margin: 22px 0 14px;
+  padding: 14px 6px 12px;
+  border-radius: 20px;
+  background: #faf9f6;
+}
+.celebrate-next {
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: var(--ink-3);
+}
+.celebrate-next b {
+  color: var(--ink);
+  font-weight: 640;
+}
+.celebrate-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  margin-top: 18px;
+}
+.celebrate-primary {
+  width: 100%;
+}

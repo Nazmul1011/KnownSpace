@@ -1,0 +1,93 @@
+/* ---------------------------------------------------------------- bottom */
+
+.hud-br {
+  right: 16px;
+  bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.coffee-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 42px;
+  padding: 0 16px 0 14px;
+  border-radius: var(--r-pill);
+  font: 500 13px var(--sans);
+  color: var(--ink-2);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.coffee-btn:hover {
+  color: var(--ink);
+}
+/* the taller steaming icon: keep the cup itself level with the text */
+.coffee-btn .coffee-cup {
+  margin-top: -5px;
+}
+/* steam and the periodic tilt are SMIL animations inside the icon (shared/ui/brand.tsx); hover adds a quick tilt */
+.coffee-btn:hover .coffee-cup {
+  animation: coffee-tilt 0.6s var(--ease-out, ease-out);
+}
+@keyframes coffee-tilt {
+  30% {
+    transform: rotate(-12deg);
+  }
+  65% {
+    transform: rotate(6deg);
+  }
+}
+[data-reduced] .coffee-btn:hover .coffee-cup {
+  animation: none;
+}
+.controls {
+  display: flex;
+  align-items: center;
+  height: 42px;
+  padding: 0 5px;
+  border-radius: var(--r-pill);
+}
+.controls button {
+  display: grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  color: var(--ink-2);
+  transition: background-color 0.15s;
+}
+.controls button:hover {
+  background: rgba(20, 20, 19, 0.06);
+  color: var(--ink);
+}
+.zoom-val {
+  width: 46px;
+  text-align: center;
+  font: 500 13px var(--sans);
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.controls-sep {
+  width: 0.5px;
+  height: 18px;
+  margin: 0 5px;
+  background: var(--line-2);
+}
+
+/* tablets: the coffee button keeps its steaming cup but drops the words */
+@media (max-width: 1100px) {
+  .coffee-btn {
+    width: 42px;
+    padding: 0;
+    justify-content: center;
+  }
+  .coffee-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip-path: inset(50%);
+    white-space: nowrap;
+  }
+}

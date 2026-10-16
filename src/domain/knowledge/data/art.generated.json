@@ -1,0 +1,4810 @@
+{
+ "saturn-rings": {
+  "w": 902,
+  "h": 649,
+  "aspect": 1.3898,
+  "tone": "#f7f4ef",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "moon-same-side": {
+  "w": 362,
+  "h": 363,
+  "aspect": 0.9972,
+  "tone": "#c4c2c0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "aurora": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#364e4b",
+  "glow": "#99d198",
+  "dark": true
+ },
+ "stars-twinkle": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#202327",
+  "glow": "#6e6766",
+  "dark": true
+ },
+ "ice-floats": {
+  "w": 774,
+  "h": 628,
+  "aspect": 1.2325,
+  "tone": "#f7f7f7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "ocean-blue": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#1a5f7e",
+  "glow": "#72a1b2",
+  "dark": true
+ },
+ "sunset-colors": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#70616f",
+  "glow": "#d7a08a",
+  "dark": true
+ },
+ "rust": {
+  "w": 913,
+  "h": 659,
+  "aspect": 1.3854,
+  "tone": "#e7e2df",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "trees-water": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#887a63",
+  "glow": "#e8e4de",
+  "dark": false
+ },
+ "trees-communicate": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#5d6535",
+  "glow": "#d5e1a1",
+  "dark": true
+ },
+ "mushrooms-mycelium": {
+  "w": 595,
+  "h": 943,
+  "aspect": 0.631,
+  "tone": "#eae8e6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "bioluminescence": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#090f1d",
+  "glow": "#5f76c3",
+  "dark": true
+ },
+ "bananas-curve": {
+  "w": 915,
+  "h": 545,
+  "aspect": 1.6789,
+  "tone": "#fcf3da",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "hummingbird-hover": {
+  "w": 730,
+  "h": 544,
+  "aspect": 1.3419,
+  "tone": "#e6e3de",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "octopus-color": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#48554b",
+  "glow": "#bec2a7",
+  "dark": true
+ },
+ "cats-purr": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#998977",
+  "glow": "#ecdecd",
+  "dark": false
+ },
+ "cats-land": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#d0c8c2",
+  "glow": "#e3e3e5",
+  "dark": false
+ },
+ "whale-song": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#2a6189",
+  "glow": "#c3d6dc",
+  "dark": true
+ },
+ "bird-migration": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#cac2bb",
+  "glow": "#f7ede3",
+  "dark": false
+ },
+ "ant-traffic": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#8d8361",
+  "glow": "#e8e2ce",
+  "dark": false
+ },
+ "tardigrade": {
+  "w": 657,
+  "h": 649,
+  "aspect": 1.0123,
+  "tone": "#f0e3da",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "roman-concrete": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#7a5d40",
+  "glow": "#cfc6a7",
+  "dark": true
+ },
+ "cuneiform": {
+  "w": 896,
+  "h": 907,
+  "aspect": 0.9879,
+  "tone": "#dbc1ad",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "here-be-dragons": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#a9967d",
+  "glow": "#d6c9b6",
+  "dark": false
+ },
+ "antikythera": {
+  "w": 943,
+  "h": 892,
+  "aspect": 1.0572,
+  "tone": "#adb1aa",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "pyramid-builders": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#bfa59c",
+  "glow": "#f4e5d9",
+  "dark": false
+ },
+ "printing-press": {
+  "w": 908,
+  "h": 506,
+  "aspect": 1.7945,
+  "tone": "#cdc5bd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "velcro": {
+  "w": 877,
+  "h": 820,
+  "aspect": 1.0695,
+  "tone": "#d5cbc2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "post-it": {
+  "w": 907,
+  "h": 698,
+  "aspect": 1.2994,
+  "tone": "#f6f1d5",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "zipper": {
+  "w": 773,
+  "h": 847,
+  "aspect": 0.9126,
+  "tone": "#dad8d0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "elevator-floors": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#7c6140",
+  "glow": "#d4c5b1",
+  "dark": true
+ },
+ "microwave": {
+  "w": 939,
+  "h": 717,
+  "aspect": 1.3096,
+  "tone": "#cdc7c0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "airplane-windows": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#787976",
+  "glow": "#eeeeed",
+  "dark": false
+ },
+ "noise-cancelling": {
+  "w": 903,
+  "h": 968,
+  "aspect": 0.9329,
+  "tone": "#e3e0de",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "undersea-cables": {
+  "w": 829,
+  "h": 830,
+  "aspect": 0.9988,
+  "tone": "#cac7c5",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "qwerty": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#65655c",
+  "glow": "#f6f2ed",
+  "dark": true
+ },
+ "fingerprints": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#c8a58f",
+  "glow": "#f4ecdb",
+  "dark": false
+ },
+ "vaccines": {
+  "w": 854,
+  "h": 731,
+  "aspect": 1.1683,
+  "tone": "#f7f7fb",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "voice-recording": {
+  "w": 582,
+  "h": 962,
+  "aspect": 0.605,
+  "tone": "#e9e8e7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "blue-eyes": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#586064",
+  "glow": "#acb5b8",
+  "dark": true
+ },
+ "music-chills": {
+  "w": 1015,
+  "h": 654,
+  "aspect": 1.552,
+  "tone": "#dad5d0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "moon-illusion": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#414851",
+  "glow": "#f8bb6a",
+  "dark": true
+ },
+ "volcano-eruption": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#2f2c3e",
+  "glow": "#a4665a",
+  "dark": true
+ },
+ "volcanic-lightning": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#2b262c",
+  "glow": "#8a686e",
+  "dark": true
+ },
+ "dead-sea": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#c3c9cc",
+  "glow": "#eff0ee",
+  "dark": false
+ },
+ "popcorn-pops": {
+  "w": 661,
+  "h": 732,
+  "aspect": 0.903,
+  "tone": "#fbf7f1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "honey-spoil": {
+  "w": 802,
+  "h": 798,
+  "aspect": 1.005,
+  "tone": "#f3dcbf",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "coffee-cherry": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#3d3c27",
+  "glow": "#ac977c",
+  "dark": true
+ },
+ "chili-heat": {
+  "w": 680,
+  "h": 597,
+  "aspect": 1.139,
+  "tone": "#eadbd9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "onions-cry": {
+  "w": 932,
+  "h": 692,
+  "aspect": 1.3468,
+  "tone": "#dccdd1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "stop-sign": {
+  "w": 447,
+  "h": 812,
+  "aspect": 0.5505,
+  "tone": "#f1e5e3",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "tall-ceilings": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#a19b8e",
+  "glow": "#f4f4f3",
+  "dark": false
+ },
+ "flying-buttress": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#949591",
+  "glow": "#c7ddf1",
+  "dark": false
+ },
+ "pisa": {
+  "w": 555,
+  "h": 901,
+  "aspect": 0.616,
+  "tone": "#f1f0ee",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "telephone-words": {
+  "w": 966,
+  "h": 738,
+  "aspect": 1.3089,
+  "tone": "#acabaa",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "milk-at-back": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#646a5d",
+  "glow": "#bdcac1",
+  "dark": true
+ },
+ "lego-1958": {
+  "w": 870,
+  "h": 534,
+  "aspect": 1.6292,
+  "tone": "#f1d3d0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "medal-curious": {
+  "w": 913,
+  "h": 955,
+  "aspect": 0.956,
+  "tone": "#d9bba9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "medal-explorer": {
+  "w": 801,
+  "h": 844,
+  "aspect": 0.9491,
+  "tone": "#e0e0e0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "medal-scholar": {
+  "w": 758,
+  "h": 838,
+  "aspect": 0.9045,
+  "tone": "#e9d3b0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "medal-polymath": {
+  "w": 796,
+  "h": 904,
+  "aspect": 0.8805,
+  "tone": "#bcd0bb",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "honeybee-dance": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#a47c47",
+  "glow": "#f9d79a",
+  "dark": false
+ },
+ "mantis-shrimp-punch": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#7c847c",
+  "glow": "#dfcdb6",
+  "dark": false
+ },
+ "strawberry-not-berry": {
+  "w": 723,
+  "h": 591,
+  "aspect": 1.2234,
+  "tone": "#e6c7c0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "maillard-browning": {
+  "w": 849,
+  "h": 699,
+  "aspect": 1.2146,
+  "tone": "#dbcab9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "vanilla-orchid": {
+  "w": 969,
+  "h": 829,
+  "aspect": 1.1689,
+  "tone": "#e5e1dc",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "saffron-crocus": {
+  "w": 1001,
+  "h": 503,
+  "aspect": 1.9901,
+  "tone": "#ede3e6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "cheese-holes": {
+  "w": 955,
+  "h": 714,
+  "aspect": 1.3375,
+  "tone": "#f8f1dd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "umami-kombu": {
+  "w": 649,
+  "h": 486,
+  "aspect": 1.3354,
+  "tone": "#a2a39d",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "miracle-berry": {
+  "w": 976,
+  "h": 619,
+  "aspect": 1.5767,
+  "tone": "#f3e8da",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "viking-horned-helmets": {
+  "w": 983,
+  "h": 822,
+  "aspect": 1.1959,
+  "tone": "#bebbb8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "greek-statues-painted": {
+  "w": 1024,
+  "h": 1536,
+  "aspect": 0.6667,
+  "tone": "#c9b8aa",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "roman-vomitorium": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#645c4b",
+  "glow": "#d9dedd",
+  "dark": true
+ },
+ "pompeii-street-food": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#7a7366",
+  "glow": "#e4e1df",
+  "dark": false
+ },
+ "roman-latrines": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#a4a094",
+  "glow": "#e1e7ec",
+  "dark": false
+ },
+ "chained-libraries": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#554837",
+  "glow": "#c9b49c",
+  "dark": true
+ },
+ "birch-tar-chewing-gum": {
+  "w": 543,
+  "h": 402,
+  "aspect": 1.3507,
+  "tone": "#adaaa7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "checker-shadow-illusion": {
+  "w": 969,
+  "h": 710,
+  "aspect": 1.3648,
+  "tone": "#e7e7e6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "hollow-face-illusion": {
+  "w": 788,
+  "h": 801,
+  "aspect": 0.9838,
+  "tone": "#d8d7d4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "face-pareidolia": {
+  "w": 715,
+  "h": 782,
+  "aspect": 0.9143,
+  "tone": "#ddd5c9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "time-slows-in-crisis": {
+  "w": 675,
+  "h": 989,
+  "aspect": 0.6825,
+  "tone": "#dcd6d1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "misinformation-effect": {
+  "w": 1001,
+  "h": 519,
+  "aspect": 1.9287,
+  "tone": "#dacdca",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "anchoring-effect": {
+  "w": 810,
+  "h": 949,
+  "aspect": 0.8535,
+  "tone": "#e5ddd8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "metal-feels-cold": {
+  "w": 902,
+  "h": 693,
+  "aspect": 1.3016,
+  "tone": "#f4f3f2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "how-soap-works": {
+  "w": 875,
+  "h": 592,
+  "aspect": 1.478,
+  "tone": "#f5efe7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "tape-xrays": {
+  "w": 803,
+  "h": 721,
+  "aspect": 1.1137,
+  "tone": "#f3eee8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "soap-bubble-colours": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#5c5262",
+  "glow": "#bccda4",
+  "dark": true
+ },
+ "newton-seven-colours": {
+  "w": 683,
+  "h": 725,
+  "aspect": 0.9421,
+  "tone": "#f2f3f1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "oobleck": {
+  "w": 916,
+  "h": 824,
+  "aspect": 1.1117,
+  "tone": "#e3e0da",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "whip-crack": {
+  "w": 730,
+  "h": 596,
+  "aspect": 1.2248,
+  "tone": "#c2b7b1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "static-mystery": {
+  "w": 857,
+  "h": 895,
+  "aspect": 0.9575,
+  "tone": "#fed6d1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "glow-stick": {
+  "w": 742,
+  "h": 558,
+  "aspect": 1.3297,
+  "tone": "#ecfbdc",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "gold-yellow": {
+  "w": 894,
+  "h": 584,
+  "aspect": 1.5308,
+  "tone": "#e4daca",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "spaghetti-snap": {
+  "w": 903,
+  "h": 759,
+  "aspect": 1.1897,
+  "tone": "#f5ecdf",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "venus-day-year": {
+  "w": 811,
+  "h": 783,
+  "aspect": 1.0358,
+  "tone": "#f0ebe3",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "iss-free-fall": {
+  "w": 1024,
+  "h": 871,
+  "aspect": 1.1757,
+  "tone": "#ece7df",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "voyager-golden-record": {
+  "w": 764,
+  "h": 866,
+  "aspect": 0.8822,
+  "tone": "#d4c4ad",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "jupiter-great-red-spot": {
+  "w": 847,
+  "h": 911,
+  "aspect": 0.9297,
+  "tone": "#e8e0d6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "pluto-dwarf-planet": {
+  "w": 859,
+  "h": 919,
+  "aspect": 0.9347,
+  "tone": "#e9e0d7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "carrington-event": {
+  "w": 992,
+  "h": 713,
+  "aspect": 1.3913,
+  "tone": "#dcd2c9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "europa-ocean": {
+  "w": 934,
+  "h": 978,
+  "aspect": 0.955,
+  "tone": "#e8e4df",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "webb-gold-mirror": {
+  "w": 898,
+  "h": 935,
+  "aspect": 0.9604,
+  "tone": "#e5dbc8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "rockets-launch-east": {
+  "w": 876,
+  "h": 946,
+  "aspect": 0.926,
+  "tone": "#dcdddb",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "home-router-address": {
+  "w": 847,
+  "h": 802,
+  "aspect": 1.0561,
+  "tone": "#f0f0ef",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "lithium-ion-battery": {
+  "w": 514,
+  "h": 769,
+  "aspect": 0.6684,
+  "tone": "#e1e4e8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "password-hashing": {
+  "w": 739,
+  "h": 769,
+  "aspect": 0.961,
+  "tone": "#ebe6e0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "https-padlock": {
+  "w": 729,
+  "h": 855,
+  "aspect": 0.8526,
+  "tone": "#ece4d8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "white-led-blue": {
+  "w": 313,
+  "h": 807,
+  "aspect": 0.3879,
+  "tone": "#f9f8f7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "flash-memory-electrons": {
+  "w": 727,
+  "h": 316,
+  "aspect": 2.3006,
+  "tone": "#dfdedd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "contactless-no-battery": {
+  "w": 854,
+  "h": 665,
+  "aspect": 1.2842,
+  "tone": "#b0bcb6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "quartz-watch-crystal": {
+  "w": 716,
+  "h": 832,
+  "aspect": 0.8606,
+  "tone": "#cfcec8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "coffee-pot-webcam": {
+  "w": 799,
+  "h": 729,
+  "aspect": 1.096,
+  "tone": "#c5c3c2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "remote-infrared": {
+  "w": 984,
+  "h": 710,
+  "aspect": 1.3859,
+  "tone": "#d0d0d0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "card-payment-settlement": {
+  "w": 954,
+  "h": 647,
+  "aspect": 1.4745,
+  "tone": "#f4f3f2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "hermit-crab-swap": {
+  "w": 1024,
+  "h": 679,
+  "aspect": 1.5081,
+  "tone": "#b2b3b0",
+  "glow": "#d8dada",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "hermit crab",
+   "creator": "MattJP",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/41228929@N06/4626520961",
+   "provider": "flickr"
+  }
+ },
+ "owl-silent-flight": {
+  "w": 1600,
+  "h": 1199,
+  "aspect": 1.3344,
+  "tone": "#594d55",
+  "glow": "#b3b4c0",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Barn Owl in Flight1",
+   "creator": "Charlie Marshall",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Barn_Owl_in_Flight1.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "peacock-feather": {
+  "w": 1600,
+  "h": 1230,
+  "aspect": 1.3008,
+  "tone": "#4f553a",
+  "glow": "#94ab5c",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Peacock feather close-up",
+   "creator": "Mister rf",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Peacock_feather_close-up.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "egg-shapes": {
+  "w": 1600,
+  "h": 1909,
+  "aspect": 0.8381,
+  "tone": "#bbbebc",
+  "glow": "#d9e4e1",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Uria aalge MHNT Rouzic",
+   "creator": "Didier Descouens",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Uria_aalge_MHNT_Rouzic.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "shark-teeth": {
+  "w": 1600,
+  "h": 1730,
+  "aspect": 0.9249,
+  "tone": "#948b81",
+  "glow": "#c6c6c8",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Carcharocles megalodon (fossil shark tooth) (Yorktown Formation, Upper Miocene to Lower Pliocene; offshore North Carolina, USA) 5",
+   "creator": "James St. John",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Carcharocles_megalodon_(fossil_shark_tooth)_(Yorktown_Formation,_Upper_Miocene_to_Lower_Pliocene;_offshore_North_Carolina,_USA)_5.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "pit-viper-heat": {
+  "w": 938,
+  "h": 670,
+  "aspect": 1.4,
+  "tone": "#887657",
+  "glow": "#e5d8ba",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Pit Viper",
+   "creator": "b_nicodemus",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/19937098@N00/2443529401",
+   "provider": "flickr"
+  }
+ },
+ "platypus-bill": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#6c7464",
+  "glow": "#828881",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale",
+   "creator": "Charles J. Sharp",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "zebra-stripes": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#5d645d",
+  "glow": "#deccbe",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Equus quagga burchellii - Etosha, 2014",
+   "creator": "Yathin S Krishnappa",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Equus_quagga_burchellii_-_Etosha,_2014.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "dolphin-sleep": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#0b858c",
+  "glow": "#29dbe9",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Dolphins swimming close up",
+   "creator": "rawpixel",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.rawpixel.com/image/6039050/photo-image-public-domain-nature-family",
+   "provider": "rawpixel"
+  }
+ },
+ "narwhal-tusk": {
+  "w": 1600,
+  "h": 1065,
+  "aspect": 1.5023,
+  "tone": "#070706",
+  "glow": "#a39b8e",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Narwhal tusk, 1701-1930 Wellcome L0059030",
+   "creator": "Wellcome Collection",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Narwhal_tusk,_1701-1930_Wellcome_L0059030.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "antlers-regrow": {
+  "w": 1024,
+  "h": 680,
+  "aspect": 1.5059,
+  "tone": "#84838c",
+  "glow": "#ebe8eb",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Antler",
+   "creator": "the real Kam75",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/17739066@N00/5259386184",
+   "provider": "flickr"
+  }
+ },
+ "beaver-teeth": {
+  "w": 1600,
+  "h": 1736,
+  "aspect": 0.9217,
+  "tone": "#877c6c",
+  "glow": "#e7e0d4",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Castor canadensis (North American beaver) skull 5 (46660206865)",
+   "creator": "James St. John",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Castor_canadensis_(North_American_beaver)_skull_5_(46660206865).jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "giant-squid-eyes": {
+  "w": 1600,
+  "h": 2400,
+  "aspect": 0.6667,
+  "tone": "#3f546c",
+  "glow": "#c8cccd",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Architeuthis dux 68146399",
+   "creator": "Auckland War Memorial Museum",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Architeuthis_dux_68146399.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "nautilus-shell": {
+  "w": 1600,
+  "h": 1209,
+  "aspect": 1.3234,
+  "tone": "#787463",
+  "glow": "#e8ecee",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "NautilusCutawayLogarithmicSpiral",
+   "creator": "Chris 73",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:NautilusCutawayLogarithmicSpiral.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "snail-coil": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#9f8a6f",
+  "glow": "#eae6d2",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Snail shell",
+   "creator": "blairwang",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/33347924@N06/3254715871",
+   "provider": "flickr"
+  }
+ },
+ "spider-silk": {
+  "w": 959,
+  "h": 674,
+  "aspect": 1.4228,
+  "tone": "#57563b",
+  "glow": "#9fa476",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Caerostris darwini web",
+   "creator": "Ingi Agnarsson, Matjaž Kuntner, Todd A. Blackledge",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+   "page": "https://commons.wikimedia.org/wiki/File:Caerostris_darwini_web.png",
+   "provider": "wikimedia"
+  }
+ },
+ "starfish-seawater": {
+  "w": 1600,
+  "h": 1600,
+  "aspect": 1,
+  "tone": "#8f7c72",
+  "glow": "#f2d1aa",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Asterias rubens 311930010",
+   "creator": "Drew T",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Asterias_rubens_311930010.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "immortal-jellyfish": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#232831",
+  "glow": "#a291a1",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Turritopsis rubra 10893105",
+   "creator": "Tony Wills",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Turritopsis_rubra_10893105.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "trilobite-eyes": {
+  "w": 1600,
+  "h": 2023,
+  "aspect": 0.7909,
+  "tone": "#928c73",
+  "glow": "#ded7b6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Erbenochile erbeni, Devonian, Mount Issomour, Alnif, Morocco - Houston Museum of Natural Science - DSC01508",
+   "creator": "Daderot",
+   "license": "CC0 1.0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Erbenochile_erbeni,_Devonian,_Mount_Issomour,_Alnif,_Morocco_-_Houston_Museum_of_Natural_Science_-_DSC01508.JPG",
+   "provider": "wikimedia"
+  }
+ },
+ "goosebumps": {
+  "w": 1600,
+  "h": 1462,
+  "aspect": 1.0944,
+  "tone": "#a08a87",
+  "glow": "#d0b5b5",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "2003-09-17 Goose bumps",
+   "creator": "Ildar Sagdejev (Specious)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:2003-09-17_Goose_bumps.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "why-we-yawn": {
+  "w": 1600,
+  "h": 1068,
+  "aspect": 1.4981,
+  "tone": "#948e84",
+  "glow": "#cfb895",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Lion male",
+   "creator": "Byrdyak",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Lion_male.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "bacteria-ratio": {
+  "w": 1200,
+  "h": 857,
+  "aspect": 1.4002,
+  "tone": "#9d7964",
+  "glow": "#d6ddda",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Burkholderia pseudomallei colonies on sheep blood agar",
+   "creator": "Centers for Disease Control and Prevention",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.rawpixel.com/image/2288445/free-photo-image-antibody-agar-plate-antibodies",
+   "provider": "rawpixel"
+  }
+ },
+ "stomach-self-digest": {
+  "w": 1600,
+  "h": 2843,
+  "aspect": 0.5628,
+  "tone": "#9b8c85",
+  "glow": "#d3dade",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "人體消化道模型",
+   "creator": "氏子",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=142110071",
+   "provider": "wikimedia"
+  }
+ },
+ "smell-trillion": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#5c534a",
+  "glow": "#d9dee6",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Heavenly scents Project 365(2) Day 363",
+   "creator": "Keith Williamson",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/34673186@N03/5406765255",
+   "provider": "flickr"
+  }
+ },
+ "tongue-map-myth": {
+  "w": 1280,
+  "h": 947,
+  "aspect": 1.3516,
+  "tone": "#bcbcbc",
+  "glow": "#f6f6f6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Anatomical model of human tongue",
+   "creator": "Wellcome Images",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=35950551",
+   "provider": "wikimedia"
+  }
+ },
+ "spinning-dizzy": {
+  "w": 768,
+  "h": 1024,
+  "aspect": 0.75,
+  "tone": "#75665f",
+  "glow": "#dcdcd8",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Morning sun on roundabout",
+   "creator": "alastairb",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/61048021@N00/3101277515",
+   "provider": "flickr"
+  }
+ },
+ "river-meanders": {
+  "w": 1024,
+  "h": 682,
+  "aspect": 1.5015,
+  "tone": "#46665f",
+  "glow": "#8fa5b2",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "River meander, outside of Kobuk Valley National Park",
+   "creator": "AlaskaNPS",
+   "license": "Public Domain Mark 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://www.flickr.com/photos/75182224@N04/8029767491",
+   "provider": "flickr"
+  }
+ },
+ "pin-tumbler-lock": {
+  "w": 1600,
+  "h": 2351,
+  "aspect": 0.6806,
+  "tone": "#b9b3b1",
+  "glow": "#f6f6f7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "SeeThruPadlockClosedKey",
+   "creator": "Simon Speed",
+   "license": "CC0 1.0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:SeeThruPadlockClosedKey.JPG",
+   "provider": "wikimedia"
+  }
+ },
+ "fridge-moves-heat": {
+  "w": 1600,
+  "h": 2123,
+  "aspect": 0.7537,
+  "tone": "#3c3932",
+  "glow": "#cbced1",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Open refrigerator with food at night",
+   "creator": "W.carter",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Open_refrigerator_with_food_at_night.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "kettle-whistle": {
+  "w": 1600,
+  "h": 1223,
+  "aspect": 1.3083,
+  "tone": "#a19998",
+  "glow": "#f0ebed",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Kessel R Sapper",
+   "creator": "Holger Ellgaard",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Kessel_R_Sapper.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "pencil-graphite": {
+  "w": 1024,
+  "h": 750,
+  "aspect": 1.3653,
+  "tone": "#c9c0a8",
+  "glow": "#f0f2ef",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Sharpened pencils...",
+   "creator": "Uros_N",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/134629844@N02/21755024482",
+   "provider": "flickr"
+  }
+ },
+ "memory-foam": {
+  "w": 1136,
+  "h": 852,
+  "aspect": 1.3333,
+  "tone": "#b49768",
+  "glow": "#dbc095",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "MemoryFoam-fast",
+   "creator": "Johan",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:MemoryFoam-fast.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "toast-butter-side": {
+  "w": 1600,
+  "h": 1863,
+  "aspect": 0.8588,
+  "tone": "#d5c0a5",
+  "glow": "#eee4d3",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Toast with butter - Massachusetts",
+   "creator": "Daderot",
+   "license": "CC0 1.0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Toast_with_butter_-_Massachusetts.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "crown-cap": {
+  "w": 1600,
+  "h": 1063,
+  "aspect": 1.5052,
+  "tone": "#9b7a5c",
+  "glow": "#b6aca5",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Ten bottle caps",
+   "creator": "Steven Lilley",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Ten_bottle_caps.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "vacuum-flask": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#9e9c97",
+  "glow": "#e6eaef",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Термос (1)",
+   "creator": "Schekinov Alexey Victorovich",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%81_(1).jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "sink-trap": {
+  "w": 1600,
+  "h": 1951,
+  "aspect": 0.8201,
+  "tone": "#4b443c",
+  "glow": "#a39b8f",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Trap5798",
+   "creator": "mariemon",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Trap5798.JPG",
+   "provider": "wikimedia"
+  }
+ },
+ "non-stick-pan": {
+  "w": 1023,
+  "h": 659,
+  "aspect": 1.5524,
+  "tone": "#aca9a2",
+  "glow": "#e6e5e7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Frying pan",
+   "creator": "JPC24M",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/59963594@N02/5820870380",
+   "provider": "flickr"
+  }
+ },
+ "smoke-alarm": {
+  "w": 1024,
+  "h": 936,
+  "aspect": 1.094,
+  "tone": "#a1a9a5",
+  "glow": "#b7c5ca",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Smoke Detector",
+   "creator": "HomeSpot HQ",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/86639298@N02/9420220532",
+   "provider": "flickr"
+  }
+ },
+ "pressure-cooker": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#95794d",
+  "glow": "#dacfc8",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Pressure cooker - Hawkins, Contura Model - 3 litres - 4",
+   "creator": "Cantons-de-l'Est",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Pressure_cooker_-_Hawkins,_Contura_Model_-_3_litres_-_4.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "candle-flame": {
+  "w": 1024,
+  "h": 770,
+  "aspect": 1.3299,
+  "tone": "#483423",
+  "glow": "#feeeb7",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Candle flame",
+   "creator": "Pitel",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/26079562@N00/534277331",
+   "provider": "flickr"
+  }
+ },
+ "plughole-swirl": {
+  "w": 1600,
+  "h": 1247,
+  "aspect": 1.2831,
+  "tone": "#c3bbaf",
+  "glow": "#f8f8f8",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Water going down a drain",
+   "creator": "User: MrX",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Water_going_down_a_drain.png",
+   "provider": "wikimedia"
+  }
+ },
+ "taipei-101-damper": {
+  "w": 1600,
+  "h": 1063,
+  "aspect": 1.5052,
+  "tone": "#3b3321",
+  "glow": "#f0dc9d",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Taipei 101 Tuned Mass Damper 2010",
+   "creator": "Armand du Plessis",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Taipei_101_Tuned_Mass_Damper_2010.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "gateway-arch-catenary": {
+  "w": 1600,
+  "h": 2400,
+  "aspect": 0.6667,
+  "tone": "#50686d",
+  "glow": "#bbdcf7",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Gateway arch reflect 1",
+   "creator": "Daniel Schwen",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gateway_arch_reflect_1.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "window-tax": {
+  "w": 1024,
+  "h": 775,
+  "aspect": 1.3213,
+  "tone": "#898a8a",
+  "glow": "#dcd0cf",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Black Duct & Bricked-up Windows (Chicago, IL)",
+   "creator": "takomabibelot",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/38782010@N00/3716572198",
+   "provider": "flickr"
+  }
+ },
+ "old-window-glass": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#7d6a57",
+  "glow": "#c2b098",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Rippled glass window",
+   "creator": "waitscm",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/78341140@N00/14909297491",
+   "provider": "flickr"
+  }
+ },
+ "ny-setbacks": {
+  "w": 1600,
+  "h": 3186,
+  "aspect": 0.5022,
+  "tone": "#5a7f95",
+  "glow": "#aba8a6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Empire State Building From Rooftop 2019-10-05 19-11",
+   "creator": "Axel Tschentscher",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Empire_State_Building_From_Rooftop_2019-10-05_19-11.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "sticky-rice-mortar": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#8d806c",
+  "glow": "#c5bcaa",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Nanjing City Wall Brick with Maker's Mark (10150966183)",
+   "creator": "Gary Todd from Xinzheng, China",
+   "license": "CC0 1.0",
+   "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Nanjing_City_Wall_Brick_with_Maker%27s_Mark_(10150966183).jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "pagoda-shinbashira": {
+  "w": 1600,
+  "h": 2395,
+  "aspect": 0.6681,
+  "tone": "#7a6b60",
+  "glow": "#f7f4ea",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Gojonutu (Five Story Pagoda), Nikko Tosho-gu",
+   "creator": "Ray in Manila",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Gojonutu_(Five_Story_Pagoda),_Nikko_Tosho-gu.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "termite-eastgate": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#a2958a",
+  "glow": "#c2c6c8",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Termite mound",
+   "creator": "motazabdelazeem صور من الوطن",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/91352576@N06/8293121849",
+   "provider": "flickr"
+  }
+ },
+ "pantheon-dome": {
+  "w": 1600,
+  "h": 1069,
+  "aspect": 1.4967,
+  "tone": "#5c5a4d",
+  "glow": "#97b2c8",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Oculus Pantheon Rome 04 2016 6426",
+   "creator": "Mariordo (Mario Roberto Durán Ortiz)",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Oculus_Pantheon_Rome_04_2016_6426.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "burj-khalifa-wind": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#68768b",
+  "glow": "#a8aeb6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Burj Dubai",
+   "creator": "Leandro's World Tour",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/18115835@N00/4128599775",
+   "provider": "flickr"
+  }
+ },
+ "thatched-roof": {
+  "w": 1600,
+  "h": 1280,
+  "aspect": 1.25,
+  "tone": "#667475",
+  "glow": "#c4bcaa",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Minster Lovell Thatched cottage West Oxfordshire, England 02",
+   "creator": "Acabashi",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Minster_Lovell_Thatched_cottage_West_Oxfordshire,_England_02.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "igloo-warmth": {
+  "w": 1600,
+  "h": 1059,
+  "aspect": 1.5109,
+  "tone": "#393944",
+  "glow": "#a0c2e8",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Aurora australis dancing over an LED illuminated igloo",
+   "creator": "Ross Burgener",
+   "license": "Public Domain Mark 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://commons.wikimedia.org/wiki/File:Aurora_australis_dancing_over_an_LED_illuminated_igloo.jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "reinforced-concrete": {
+  "w": 1600,
+  "h": 2133,
+  "aspect": 0.7501,
+  "tone": "#5c5049",
+  "glow": "#968b84",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Rebar cylinders for new Scottsburg Bridge piers (51314665754)",
+   "creator": "Oregon Department of Transportation",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Rebar_cylinders_for_new_Scottsburg_Bridge_piers_(51314665754).jpg",
+   "provider": "wikimedia"
+  }
+ },
+ "sydney-opera-sphere": {
+  "w": 1024,
+  "h": 680,
+  "aspect": 1.5059,
+  "tone": "#77767b",
+  "glow": "#edeaea",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "'Shells' - The Sydney Opera House's iconic roof (visitors digitally removed)",
+   "creator": "Jorge Lascar",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/8721758@N06/16428792447",
+   "provider": "flickr"
+  }
+ },
+ "sourdough-starter": {
+  "w": 1600,
+  "h": 2400,
+  "aspect": 0.6667,
+  "tone": "#817d78",
+  "glow": "#e4ddcb",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Sourdough starter 001",
+   "creator": "Jeuwre",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=94133831",
+   "provider": "wikimedia"
+  }
+ },
+ "coriander-soap": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#458c1e",
+  "glow": "#89ca76",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Free coriander leaves image",
+   "creator": "Unknown",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.rawpixel.com/image/5914278/image-light-public-domain-leaf",
+   "provider": "rawpixel"
+  }
+ },
+ "flavour-smell": {
+  "w": 1024,
+  "h": 699,
+  "aspect": 1.4649,
+  "tone": "#70583c",
+  "glow": "#d4e1c1",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Miscellaneous",
+   "creator": "Jstar1223",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/9892584@N04/5688094899",
+   "provider": "flickr"
+  }
+ },
+ "pineapple-enzyme": {
+  "w": 1600,
+  "h": 1708,
+  "aspect": 0.9368,
+  "tone": "#868866",
+  "glow": "#edd494",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Pineapple-fruit",
+   "creator": "UneksAbdullahi",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=162818395",
+   "provider": "wikimedia"
+  }
+ },
+ "cashew-apple": {
+  "w": 1600,
+  "h": 1071,
+  "aspect": 1.4939,
+  "tone": "#5f5832",
+  "glow": "#c0995c",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Cashew apple with nut - Caju",
+   "creator": "Ben Tavener",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=20743584",
+   "provider": "wikimedia"
+  }
+ },
+ "brassica-one-species": {
+  "w": 1600,
+  "h": 1280,
+  "aspect": 1.25,
+  "tone": "#869465",
+  "glow": "#dfe6e6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Romanesco broccoli (Brassica oleracea)",
+   "creator": "Ivar Leidus",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=100133434",
+   "provider": "wikimedia"
+  }
+ },
+ "carrots-purple": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#838062",
+  "glow": "#dfdad5",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Ate purple carrots :-)",
+   "creator": "storebukkebruse",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/8536261@N07/14870357102",
+   "provider": "flickr"
+  }
+ },
+ "bread-stale": {
+  "w": 1600,
+  "h": 922,
+  "aspect": 1.7354,
+  "tone": "#d1d0c7",
+  "glow": "#f9fbf9",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Baguette mie",
+   "creator": "Popo le Chien",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=52448861",
+   "provider": "wikimedia"
+  }
+ },
+ "altitude-boiling": {
+  "w": 1600,
+  "h": 1066,
+  "aspect": 1.5009,
+  "tone": "#514c48",
+  "glow": "#b4bbc3",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Pasta Cooking on a Camping Stove - Algonquin Provincial Park 2019-09-21 (01)",
+   "creator": "Ryan Hodnett",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=91496938",
+   "provider": "wikimedia"
+  }
+ },
+ "cacao-fermentation": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#6f532a",
+  "glow": "#e0d5a9",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Cacao Pod",
+   "creator": "abnederveld",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/40804712@N00/16378581928",
+   "provider": "flickr"
+  }
+ },
+ "tea-one-plant": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#82887c",
+  "glow": "#d3d7e3",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Tea plantation in hangzhou",
+   "creator": "Shizhao",
+   "license": "CC BY 1.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/1.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=396898",
+   "provider": "wikimedia"
+  }
+ },
+ "avocado-megafauna": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#beb8a7",
+  "glow": "#eeeee7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Avocado Hass - single and halved",
+   "creator": "Ivar Leidus",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=114747058",
+   "provider": "wikimedia"
+  }
+ },
+ "tomato-court": {
+  "w": 1600,
+  "h": 1117,
+  "aspect": 1.4324,
+  "tone": "#c8957b",
+  "glow": "#edd1a9",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Campari Tomatoes on the Vine",
+   "creator": "Dwight Burdette",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=19861416",
+   "provider": "wikimedia"
+  }
+ },
+ "royal-game-of-ur": {
+  "w": 1600,
+  "h": 1275,
+  "aspect": 1.2549,
+  "tone": "#50516a",
+  "glow": "#bfb49b",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "British Museum Royal Game of Ur",
+   "creator": "Unknown",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=10861909",
+   "provider": "wikimedia"
+  }
+ },
+ "welwitschia": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#a79d85",
+  "glow": "#c3c5bf",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Welwitschia mirabilis(2)",
+   "creator": "Thomas Schoch",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=650590",
+   "provider": "wikimedia"
+  }
+ },
+ "chess-queen": {
+  "w": 1600,
+  "h": 2335,
+  "aspect": 0.6852,
+  "tone": "#4b3923",
+  "glow": "#edd6aa",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Chess queen 0964",
+   "creator": "che (production: Nolanus, lighting assistance: Danny B.)",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=1771505",
+   "provider": "wikimedia"
+  }
+ },
+ "stradivarius-test": {
+  "w": 1000,
+  "h": 665,
+  "aspect": 1.5038,
+  "tone": "#47240f",
+  "glow": "#b77a47",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "My violin made in about 1770",
+   "creator": "wolfy1280",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/99498018@N00/147587554",
+   "provider": "flickr"
+  }
+ },
+ "concert-pitch": {
+  "w": 960,
+  "h": 720,
+  "aspect": 1.3333,
+  "tone": "#eff1ed",
+  "glow": "#ffffff",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "A440 Tuning Fork",
+   "creator": "Zephyris at English Wikipedia",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=5971167",
+   "provider": "wikimedia"
+  }
+ },
+ "bone-flutes": {
+  "w": 1600,
+  "h": 1068,
+  "aspect": 1.4981,
+  "tone": "#a38d71",
+  "glow": "#ece8e0",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Bone Flute",
+   "creator": "Cangminzho",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=67386564",
+   "provider": "wikimedia"
+  }
+ },
+ "wrinkly-fingers": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#c3947d",
+  "glow": "#d7e7b1",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "pruney fingers",
+   "creator": "savanna-smiles",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/54738372@N00/6606962953",
+   "provider": "flickr"
+  }
+ },
+ "lake-baikal": {
+  "w": 1023,
+  "h": 683,
+  "aspect": 1.4978,
+  "tone": "#5e819c",
+  "glow": "#c9dbe8",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Baikal",
+   "creator": "Black Sickle",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/77218425@N08/24964594982",
+   "provider": "flickr"
+  }
+ },
+ "everest-seafloor": {
+  "w": 1024,
+  "h": 660,
+  "aspect": 1.5515,
+  "tone": "#514f51",
+  "glow": "#cbc2bd",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Fossiliferous flint (Upper Mercer Limestone, Middle Pennsylvanian; Dresden, Ohio, USA) 6",
+   "creator": "James St. John",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/47445767@N05/33303249246",
+   "provider": "flickr"
+  }
+ },
+ "africa-splitting": {
+  "w": 1600,
+  "h": 1068,
+  "aspect": 1.4981,
+  "tone": "#83807c",
+  "glow": "#cddae0",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Manda-Hararo rift, Afar",
+   "creator": "DavidMPyle",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=71076937",
+   "provider": "wikimedia"
+  }
+ },
+ "lycurgus-cup": {
+  "w": 1600,
+  "h": 2146,
+  "aspect": 0.7456,
+  "tone": "#8c7059",
+  "glow": "#cebca7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Front of 4th century CE Roman Lycurgus Cup, British Museum (1958,1202.1)",
+   "creator": "Chappsnet",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=142942126",
+   "provider": "wikimedia"
+  }
+ },
+ "damascus-steel": {
+  "w": 1181,
+  "h": 637,
+  "aspect": 1.854,
+  "tone": "#b8b0a7",
+  "glow": "#f0e9df",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Figure 4 - Damascus steel blade",
+   "creator": "Atdr gs",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=34827913",
+   "provider": "wikimedia"
+  }
+ },
+ "viking-sunstone": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#191617",
+  "glow": "#c8b796",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Calcite, variety Iceland spar, Reytharfjorthur, Iceland - Natural History Museum, London - DSC05195",
+   "creator": "Daderot",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=152778066",
+   "provider": "wikimedia"
+  }
+ },
+ "oldest-leather-shoe": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#9e9791",
+  "glow": "#e0ddd7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Areni shoe 2024",
+   "creator": "Yerevantsi",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=175234918",
+   "provider": "wikimedia"
+  }
+ },
+ "inca-khipu": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#645e56",
+  "glow": "#b4aa96",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Santa Valley Quipu in the Lima Art Museum",
+   "creator": "TaphonomyMan",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=169039158",
+   "provider": "wikimedia"
+  }
+ },
+ "nebra-sky-disc": {
+  "w": 1600,
+  "h": 1297,
+  "aspect": 1.2336,
+  "tone": "#454a43",
+  "glow": "#cfbd8b",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Nebra disc 1",
+   "creator": "Frank Vincentz",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=117229202",
+   "provider": "wikimedia"
+  }
+ },
+ "vindolanda-birthday-invitation": {
+  "w": 1600,
+  "h": 695,
+  "aspect": 2.3022,
+  "tone": "#8f836f",
+  "glow": "#d7d0b2",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Vindolanda tablet 291",
+   "creator": "Fæ",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=14491607",
+   "provider": "wikimedia"
+  }
+ },
+ "peatlands": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#807c53",
+  "glow": "#cdc8a4",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Sphagnum bog, The Blue Tier, Poimena, Tasmania",
+   "creator": "Doug Beckers",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/37103729@N02/8749580335",
+   "provider": "flickr"
+  }
+ },
+ "lunar-new-year": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#824c46",
+  "glow": "#bec7c7",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Lantern array",
+   "creator": "pelican",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/85936780@N00/5750396",
+   "provider": "flickr"
+  }
+ },
+ "touchscreen-finger": {
+  "w": 960,
+  "h": 636,
+  "aspect": 1.5094,
+  "tone": "#c6aa8a",
+  "glow": "#f7d7ac",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Laptop Apple",
+   "creator": "Lukas",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://stocksnap.io/photo/laptop-apple-LJ6PZ5N9S6",
+   "provider": "stocksnap"
+  }
+ },
+ "camera-sensor-colour": {
+  "w": 1024,
+  "h": 819,
+  "aspect": 1.2503,
+  "tone": "#c6b2a2",
+  "glow": "#ffffff",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Camera sensor",
+   "creator": "AMagill",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/85473033@N00/1886243678",
+   "provider": "flickr"
+  }
+ },
+ "intro-sphinx": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#dbc0a1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "coastline-paradox": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#428c8f",
+  "glow": "#99c9c5",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Kelp forest aerial survey view Glacier Bay National Park-Alaska-RM-010",
+   "creator": "Forest Service Alaska Region, USDA",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.flickr.com/photos/58184989@N07/52503069583",
+   "provider": "flickr"
+  }
+ },
+ "surtsey": {
+  "w": 1280,
+  "h": 1018,
+  "aspect": 1.2574,
+  "tone": "#28345b",
+  "glow": "#5d688f",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Surtsey from air by Bruce McAdam",
+   "creator": "Bruce McAdam from Reykjavik, Iceland",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=5431208",
+   "provider": "wikimedia"
+  }
+ },
+ "sargasso-sea": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#4e340e",
+  "glow": "#c29f2e",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Sargasso seaweed detail",
+   "creator": "Jonathan Wilkins",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=40440222",
+   "provider": "wikimedia"
+  }
+ },
+ "sahara-dust": {
+  "w": 1024,
+  "h": 896,
+  "aspect": 1.1429,
+  "tone": "#6e727a",
+  "glow": "#c9cacd",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Saharan Dust on the Move",
+   "creator": "NASA Goddard Photo and Video",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/24662369@N07/14410127840",
+   "provider": "flickr"
+  }
+ },
+ "stonehenge-altar-stone": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#97a994",
+  "glow": "#f5f5f5",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "2010-08-02 at Stonehenge 11",
+   "creator": "Szilas",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=122191815",
+   "provider": "wikimedia"
+  }
+ },
+ "iron-gall-ink": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#bfb7a9",
+  "glow": "#fefefc",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Oak Gall",
+   "creator": "Cliff Hutson",
+   "license": "CC BY 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=1889223",
+   "provider": "wikimedia"
+  }
+ },
+ "carborundum-accident": {
+  "w": 1600,
+  "h": 1059,
+  "aspect": 1.5109,
+  "tone": "#888c8b",
+  "glow": "#fdfdfd",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "BLW Carborundum crystals",
+   "creator": "John Faithfull",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/uk/deed.en/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=10462545",
+   "provider": "wikimedia"
+  }
+ },
+ "early-electric-cars": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#545154",
+  "glow": "#a59789",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "File:1904 Columbia Electric Runabout 01 2012 DC 00472.JPG",
+   "creator": "Mariordo (Mario Roberto Duran Ortiz)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=18073307",
+   "provider": "wikimedia"
+  }
+ },
+ "hero-steam-engine": {
+  "w": 1600,
+  "h": 2400,
+  "aspect": 0.6667,
+  "tone": "#5d4d3e",
+  "glow": "#d7ccc1",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Aelípila",
+   "creator": "Tamorlan",
+   "license": "CC BY 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=6763350",
+   "provider": "wikimedia"
+  }
+ },
+ "paper-clip-myth": {
+  "w": 1024,
+  "h": 681,
+  "aspect": 1.5037,
+  "tone": "#696a5d",
+  "glow": "#b9baa9",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Paper Clip Wasteland - 27/365",
+   "creator": "Jamiesrabbits",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/38389073@N04/4312403773",
+   "provider": "flickr"
+  }
+ },
+ "snow-goggles": {
+  "w": 1362,
+  "h": 1419,
+  "aspect": 0.9598,
+  "tone": "#b8b0ab",
+  "glow": "#e9eff4",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Inuit Snow goggles from Alaska. Made from carved wood, 1880-1890CE (top) and Caribou antler 1000-1800 CE (bottom)",
+   "creator": "Jaredzimmerman (WMF)",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=35716350",
+   "provider": "wikimedia"
+  }
+ },
+ "bakelite-shellac": {
+  "w": 1536,
+  "h": 2048,
+  "aspect": 0.75,
+  "tone": "#5a4b47",
+  "glow": "#beb5a5",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Bakelite radio",
+   "creator": "Original uploader was Robneild at en.wikipedia",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=3206130",
+   "provider": "wikimedia"
+  }
+ },
+ "sunflowers-face-east": {
+  "w": 1023,
+  "h": 755,
+  "aspect": 1.355,
+  "tone": "#a69d64",
+  "glow": "#e2ebec",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Sunflower Field in Kansas",
+   "creator": "ted_M8",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/86408441@N08/9399711558",
+   "provider": "flickr"
+  }
+ },
+ "pine-cones-open": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#695435",
+  "glow": "#e3c18f",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Half Opened Pine Cone",
+   "creator": "zeevveez",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/29001414@N00/31740093698",
+   "provider": "flickr"
+  }
+ },
+ "shepard-tone": {
+  "w": 1600,
+  "h": 1053,
+  "aspect": 1.5195,
+  "tone": "#6a5a3a",
+  "glow": "#eeede9",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Vatican Museums Spiral Staircase Looking Up 2012",
+   "creator": "Colin",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=24585790",
+   "provider": "wikimedia"
+  }
+ },
+ "childhood-amnesia": {
+  "w": 1000,
+  "h": 562,
+  "aspect": 1.7794,
+  "tone": "#abb5b4",
+  "glow": "#eef1ec",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Dirty old town",
+   "creator": "mislav-m",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/29561334@N04/5630673752",
+   "provider": "flickr"
+  }
+ },
+ "memory-palace": {
+  "w": 1600,
+  "h": 2844,
+  "aspect": 0.5626,
+  "tone": "#7d7b76",
+  "glow": "#c7c7c6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Moscow Kuskovo Palace Enfilade 2025-08-30 6695",
+   "creator": "Mike1979 Russia",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=184483705",
+   "provider": "wikimedia"
+  }
+ },
+ "choice-overload": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#895b45",
+  "glow": "#d2b99b",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Jam haul",
+   "creator": "treehouse1977",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/13071852@N00/7652416366",
+   "provider": "flickr"
+  }
+ },
+ "hot-hand": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#adb9cb",
+  "glow": "#e2e4e7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "BasketBall - score",
+   "creator": "j9sk9s",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/20943407@N08/4128778346",
+   "provider": "flickr"
+  }
+ },
+ "habit-formation-time": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#758773",
+  "glow": "#f7f7f7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Desire path",
+   "creator": "wetwebwork",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/82832950@N00/2847766967",
+   "provider": "flickr"
+  }
+ },
+ "facial-feedback": {
+  "w": 1024,
+  "h": 709,
+  "aspect": 1.4443,
+  "tone": "#cac7c7",
+  "glow": "#d6d8d5",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Red ballpoint pen",
+   "creator": "Emilio_13",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/58748148@N08/6254839660",
+   "provider": "flickr"
+  }
+ },
+ "bystander-intervention": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#6a351b",
+  "glow": "#f2b064",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "0802A05 Last Call",
+   "creator": "syntheticaperture",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/21050990@N03/2251391808",
+   "provider": "flickr"
+  }
+ },
+ "liking-gap": {
+  "w": 1024,
+  "h": 679,
+  "aspect": 1.5081,
+  "tone": "#655a4a",
+  "glow": "#eef7ef",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Table, two chairs, two coffee cups",
+   "creator": "Matthew Paul Argall",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/79157069@N03/41784404304",
+   "provider": "flickr"
+  }
+ },
+ "cloud-data-centres": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#636666",
+  "glow": "#fefefd",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Virginia Tech - data center",
+   "creator": "cbowns",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/15417585@N00/2414578731",
+   "provider": "flickr"
+  }
+ },
+ "e-ink-screen": {
+  "w": 960,
+  "h": 640,
+  "aspect": 1.5,
+  "tone": "#5e544d",
+  "glow": "#d0c7cc",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Kindle E-Reader",
+   "creator": "Aliis Sinisalu",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://stocksnap.io/photo/kindle-e-reader-YE3BR41KSE",
+   "provider": "stocksnap"
+  }
+ },
+ "intro-dove-coin": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#c7b7a4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "dream-forgetting": {
+  "w": 1024,
+  "h": 685,
+  "aspect": 1.4949,
+  "tone": "#767d72",
+  "glow": "#e7e3df",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "bed",
+   "creator": "akaitori",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/16658036@N00/950478233",
+   "provider": "flickr"
+  }
+ },
+ "sea-salty": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#818281",
+  "glow": "#bfc1bf",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Salt",
+   "creator": "ccarlstead",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/27087959@N00/388031528",
+   "provider": "flickr"
+  }
+ },
+ "fizzy-bubbles": {
+  "w": 1024,
+  "h": 671,
+  "aspect": 1.5261,
+  "tone": "#777977",
+  "glow": "#e6eef0",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "2015_02_24_bubbles_7",
+   "creator": "dsearls",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/52614599@N00/16889707495",
+   "provider": "flickr"
+  }
+ },
+ "leidenfrost": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#917a61",
+  "glow": "#f4ecde",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Steam",
+   "creator": "Mel B.",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/93587218@N00/2452058411",
+   "provider": "flickr"
+  }
+ },
+ "solar-cell-light": {
+  "w": 1000,
+  "h": 667,
+  "aspect": 1.4993,
+  "tone": "#83a0c9",
+  "glow": "#a9cae8",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Dunayskaya Solar Park",
+   "creator": "Activ Solar",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/92075126@N04/8447103163",
+   "provider": "flickr"
+  }
+ },
+ "computer-bug-moth": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#7b7672",
+  "glow": "#d4e0ea",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "#Found a fragile white carpet moth hanging out. #fragile #white #carpet #moth #macro #bug #insect #moths #nature #mothing #mothsofinstagram #insectsofinstagram #mothernature #colorado #coloradotography #coloradoinstagram #coloradophotographs",
+   "creator": "UnknownNet Photography",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/110548908@N06/28729231151",
+   "provider": "flickr"
+  }
+ },
+ "razor-blades-myth": {
+  "w": 1024,
+  "h": 684,
+  "aspect": 1.4971,
+  "tone": "#bebdba",
+  "glow": "#e8e8e8",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Vintage Gillette Black Handle Super Speed Safety Razor, Double Edge, Twist-To-Open, Safety Bar, Made In USA, Date Code S-4 (1972)",
+   "creator": "France1978",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/51764518@N02/39019082875",
+   "provider": "flickr"
+  }
+ },
+ "penny-cost": {
+  "w": 1024,
+  "h": 714,
+  "aspect": 1.4342,
+  "tone": "#7d6342",
+  "glow": "#d1ae67",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Like Canada did a few years ago, USA might be turning away from the long tradition of minting the penny coin.",
+   "creator": "theslowlane",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/90536753@N00/54328075298",
+   "provider": "flickr"
+  }
+ },
+ "tulip-mania": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#95a3c5",
+  "glow": "#f1f3e7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Striped tulip 5",
+   "creator": "tanakawho",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/28481088@N00/447066817",
+   "provider": "flickr"
+  }
+ },
+ "cash-register-bell": {
+  "w": 1024,
+  "h": 761,
+  "aspect": 1.3456,
+  "tone": "#78654e",
+  "glow": "#ac9f8c",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Antique Cash Register",
+   "creator": "mikecogh",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/89165847@N00/30372226245",
+   "provider": "flickr"
+  }
+ },
+ "intro-orange": {
+  "w": 1244,
+  "h": 1242,
+  "aspect": 1.0016,
+  "tone": "#ebba8f",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "sphinx-carved": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#dbc0a1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "dove-peace-symbol": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#c7b7a4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "orange-hybrid": {
+  "w": 1244,
+  "h": 1242,
+  "aspect": 1.0016,
+  "tone": "#ebba8f",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "petrichor": {
+  "w": 1023,
+  "h": 659,
+  "aspect": 1.5524,
+  "tone": "#b69f7b",
+  "glow": "#d6c8ad",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Raindrop imprints on modern mudcracks (Black Rock Creek valley, just north of Black Rock, Leucite Hills, Wyoming, USA) 2",
+   "creator": "James St. John",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/47445767@N05/19904866136",
+   "provider": "flickr"
+  }
+ },
+ "cloud-weight": {
+  "w": 1024,
+  "h": 577,
+  "aspect": 1.7747,
+  "tone": "#91acd4",
+  "glow": "#d8deeb",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Blue Sky and White Clouds",
+   "creator": "Image Catalog",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.flickr.com/photos/132795455@N08/18072340719",
+   "provider": "flickr"
+  }
+ },
+ "noctilucent-clouds": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#305b84",
+  "glow": "#bdd6ec",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Noctilucent-clouds-msu-6817",
+   "creator": "Matthias Süßen",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=79936661",
+   "provider": "wikimedia"
+  }
+ },
+ "fairy-rings": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#84974e",
+  "glow": "#bdcb7d",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Fairy ring mushrooms",
+   "creator": "Ogusokumushi",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=163309468",
+   "provider": "wikimedia"
+  }
+ },
+ "coco-de-mer": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#5d4736",
+  "glow": "#baa18d",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Coco de Mer (39638784082)",
+   "creator": "dronepicr",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=65896177",
+   "provider": "wikimedia"
+  }
+ },
+ "dandelion-flight": {
+  "w": 1010,
+  "h": 1024,
+  "aspect": 0.9863,
+  "tone": "#879d63",
+  "glow": "#e5e9e6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Dandelion Seed Head (Taraxacum officinalle) X",
+   "creator": "Phil Sellens",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/33303746@N07/3560536510",
+   "provider": "flickr"
+  }
+ },
+ "ice-slippery": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#496581",
+  "glow": "#c4e4ea",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Nordic skating on Summit Lake. Kenai Mountains, Alaska",
+   "creator": "Mudflattop",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=155606569",
+   "provider": "wikimedia"
+  }
+ },
+ "mars-blue-sunset": {
+  "w": 895,
+  "h": 1024,
+  "aspect": 0.874,
+  "tone": "#76797e",
+  "glow": "#ccddee",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Sol 956 - Sunset",
+   "creator": "jccwrt",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/132160802@N06/24947737633",
+   "provider": "flickr"
+  }
+ },
+ "light-pollution-milky-way": {
+  "w": 1023,
+  "h": 683,
+  "aspect": 1.4978,
+  "tone": "#4d4655",
+  "glow": "#908eb3",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Milky Way over Cathedral Rock",
+   "creator": "Coconino NF Photography",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+   "page": "https://www.flickr.com/photos/42034606@N05/34696114225",
+   "provider": "flickr"
+  }
+ },
+ "in-store-music": {
+  "w": 1024,
+  "h": 740,
+  "aspect": 1.3838,
+  "tone": "#8b6139",
+  "glow": "#cfb483",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Wine section of a supermarket",
+   "creator": "piropiro3",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/65630793@N05/25785852404",
+   "provider": "flickr"
+  }
+ },
+ "legal-tender": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#84736d",
+  "glow": "#ddd5d0",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "British Coins",
+   "creator": "wwarby",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/26782864@N00/4916559998",
+   "provider": "flickr"
+  }
+ },
+ "shopping-trolley": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#246f52",
+  "glow": "#73e4b9",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Shopping trolleys",
+   "creator": "Rd. Vortex",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/9000052@N02/621757607",
+   "provider": "flickr"
+  }
+ },
+ "prayer-beads-counting": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#d9c5ba",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "coffee-ring": {
+  "w": 1023,
+  "h": 687,
+  "aspect": 1.4891,
+  "tone": "#c98e3c",
+  "glow": "#d6a750",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Coffee Stains Texture 09",
+   "creator": "SixRevisions",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/31288116@N02/3731905658",
+   "provider": "flickr"
+  }
+ },
+ "meteors-dust": {
+  "w": 1023,
+  "h": 683,
+  "aspect": 1.4978,
+  "tone": "#3b4146",
+  "glow": "#9d9488",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Perseid Meteor Shower; 8/11/15",
+   "creator": "Joshua Tree National Park",
+   "license": "Public Domain Mark 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://www.flickr.com/photos/115357548@N08/20526349219",
+   "provider": "flickr"
+  }
+ },
+ "uranus-sideways": {
+  "w": 1024,
+  "h": 866,
+  "aspect": 1.1824,
+  "tone": "#162837",
+  "glow": "#60b7f9",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Alien aurorae spotted on Uranus by Hubble",
+   "creator": "NASA Goddard Photo and Video",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/24662369@N07/33570800220",
+   "provider": "flickr"
+  }
+ },
+ "andromeda-merger": {
+  "w": 1024,
+  "h": 788,
+  "aspect": 1.2995,
+  "tone": "#493b49",
+  "glow": "#daa7b1",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "The Andromeda Galaxy, Messier 31",
+   "creator": "kees scherer",
+   "license": "Public Domain Mark 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://www.flickr.com/photos/50769593@N00/43929816675",
+   "provider": "flickr"
+  }
+ },
+ "polaris-pole-star": {
+  "w": 1024,
+  "h": 684,
+  "aspect": 1.4971,
+  "tone": "#304968",
+  "glow": "#6495b4",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Star trails near Hidden Valley Campground",
+   "creator": "Joshua Tree National Park",
+   "license": "Public Domain Mark 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://www.flickr.com/photos/115357548@N08/29581674726",
+   "provider": "flickr"
+  }
+ },
+ "moon-shrinking": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#292727",
+  "glow": "#c0b4b0",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "First Quarter",
+   "creator": "NASA Goddard Photo and Video",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/24662369@N07/15982765351",
+   "provider": "flickr"
+  }
+ },
+ "intro-beads": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#d9c5ba",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "blind-spot": {
+  "w": 1280,
+  "h": 960,
+  "aspect": 1.3333,
+  "tone": "#aaa19b",
+  "glow": "#f0eff1",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Eye model",
+   "creator": "RWhitwam",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=166916491",
+   "provider": "wikimedia"
+  }
+ },
+ "sun-sneeze": {
+  "w": 1024,
+  "h": 678,
+  "aspect": 1.5103,
+  "tone": "#6b6253",
+  "glow": "#f4f3ee",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Untitled (sunbeams over a woodland road)",
+   "creator": "myyorgda",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/23369083@N05/7027683143",
+   "provider": "flickr"
+  }
+ },
+ "growth-plates": {
+  "w": 1600,
+  "h": 1071,
+  "aspect": 1.4939,
+  "tone": "#4d3d37",
+  "glow": "#c8b5af",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Hand skeleton (9380121832)",
+   "creator": "Lukas Large from Stourbridge, United Kingdom",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=182502292",
+   "provider": "wikimedia"
+  }
+ },
+ "body-clock": {
+  "w": 1023,
+  "h": 774,
+  "aspect": 1.3217,
+  "tone": "#cfc7aa",
+  "glow": "#ffffff",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Pocket Watch",
+   "creator": "BenGrantham",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/26072061@N06/4435553414",
+   "provider": "flickr"
+  }
+ },
+ "mercator-greenland": {
+  "w": 1600,
+  "h": 2408,
+  "aspect": 0.6645,
+  "tone": "#bfa795",
+  "glow": "#f8e4d1",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Hunt-Lenox globe - Full view of globe with stand in color - cropped",
+   "creator": "Unknown author (New York Public Library)",
+   "license": "CC0 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=184652764",
+   "provider": "wikimedia"
+  }
+ },
+ "antarctica-desert": {
+  "w": 1024,
+  "h": 576,
+  "aspect": 1.7778,
+  "tone": "#6984ba",
+  "glow": "#a5c6fa",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Ice Core",
+   "creator": "edenpictures",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/10485077@N06/13750210193",
+   "provider": "flickr"
+  }
+ },
+ "chimborazo-summit": {
+  "w": 1600,
+  "h": 1071,
+  "aspect": 1.4939,
+  "tone": "#64707c",
+  "glow": "#e2eaf5",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Vicuña - Chimborazo, Ecuador",
+   "creator": "Dabit100 / David Torres Costales Riobamba",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=16890330",
+   "provider": "wikimedia"
+  }
+ },
+ "autumn-leaves": {
+  "w": 973,
+  "h": 973,
+  "aspect": 1,
+  "tone": "#f3d4d3",
+  "glow": "#fefefe",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "one leaf",
+   "creator": "Muffet",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/53133240@N00/5136332209",
+   "provider": "flickr"
+  }
+ },
+ "bamboo-flowering": {
+  "w": 1600,
+  "h": 1067,
+  "aspect": 1.4995,
+  "tone": "#676a63",
+  "glow": "#999d9b",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Bamboo Forest, Arashiyama, Kyoto, Japan",
+   "creator": "Basile Morin",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=85860114",
+   "provider": "wikimedia"
+  }
+ },
+ "venus-flytrap": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#7c5f3a",
+  "glow": "#cad17f",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Venus Flytrap Dionaea",
+   "creator": "platycryptus",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/23233631@N00/5255303432",
+   "provider": "flickr"
+  }
+ },
+ "tree-rings": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#755243",
+  "glow": "#bfafa7",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Tree rings",
+   "creator": "Arnoldius",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=568944",
+   "provider": "wikimedia"
+  }
+ },
+ "snowflake-shapes": {
+  "w": 1600,
+  "h": 1068,
+  "aspect": 1.4981,
+  "tone": "#161619",
+  "glow": "#918d94",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Snowflake macro on a black scarf (25821626718)",
+   "creator": "Lorie Shaull from Washington, United States",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=66651733",
+   "provider": "wikimedia"
+  }
+ },
+ "hailstones": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#afacb6",
+  "glow": "#e2e2e9",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Hailstones UK",
+   "creator": "Richard Wheeler (Zephyris)",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=6453552",
+   "provider": "wikimedia"
+  }
+ },
+ "lichen": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#746950",
+  "glow": "#afa05c",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Lichen Rock at Shipwreck Cove, NZ",
+   "creator": "brewbooks",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/93452909@N00/306271334",
+   "provider": "flickr"
+  }
+ },
+ "woodpecker-skull": {
+  "w": 1023,
+  "h": 731,
+  "aspect": 1.3995,
+  "tone": "#767e4d",
+  "glow": "#dacfb0",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Great Spotted Woodpecker - Dendrocopos major",
+   "creator": "cazalegg",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/128941223@N02/52103312245",
+   "provider": "flickr"
+  }
+ },
+ "crows-faces": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#7e7d68",
+  "glow": "#d8d7d6",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "American Crow",
+   "creator": "Becky Matsubara",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/130819719@N05/39773251780",
+   "provider": "flickr"
+  }
+ },
+ "electric-eel": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#587748",
+  "glow": "#c4dfc0",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Electric-eel",
+   "creator": "Steven G. Johnson",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=1446721",
+   "provider": "wikimedia"
+  }
+ },
+ "pufferfish-circles": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#688489",
+  "glow": "#ebe9e7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Pufferfish",
+   "creator": "prilfish",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/37707866@N00/15664571080",
+   "provider": "flickr"
+  }
+ },
+ "greenland-shark": {
+  "w": 1280,
+  "h": 854,
+  "aspect": 1.4988,
+  "tone": "#1b202b",
+  "glow": "#718d9e",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Greenland shark profile",
+   "creator": "Hemming1952",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=75505720",
+   "provider": "wikimedia"
+  }
+ },
+ "gecko-feet": {
+  "w": 1024,
+  "h": 738,
+  "aspect": 1.3875,
+  "tone": "#576442",
+  "glow": "#c1bbb5",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Madagascar day gecko",
+   "creator": "Bernard Spragg",
+   "license": "Public Domain Mark 1.0",
+   "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+   "page": "https://www.flickr.com/photos/88123769@N02/52666162589",
+   "provider": "flickr"
+  }
+ },
+ "wood-frog-freeze": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#9c7350",
+  "glow": "#e0bf96",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Wood Frog - Lithobates sylvaticus, Lake Accotink Park, Springfield, Virginia",
+   "creator": "Judy Gallagher",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/52450054@N04/39440713811",
+   "provider": "flickr"
+  }
+ },
+ "gamelan-tuning": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#998c7e",
+  "glow": "#fae1be",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Typical Javanese gamelan instruments: gendèr & slenthem",
+   "creator": "Jorge Franganillo",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/46191841@N00/52298290171",
+   "provider": "flickr"
+  }
+ },
+ "comet-tails": {
+  "w": 1600,
+  "h": 1682,
+  "aspect": 0.9512,
+  "tone": "#252a35",
+  "glow": "#4c5162",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Comet Hale-Bopp Phot-mar14-hbs-2",
+   "creator": "ESO/E. Slawik",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=128552418",
+   "provider": "wikimedia"
+  }
+ },
+ "eclipse-coincidence": {
+  "w": 1600,
+  "h": 904,
+  "aspect": 1.7699,
+  "tone": "#2c2b2f",
+  "glow": "#b3b3b5",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "2024 Total Solar Eclipse Corona",
+   "creator": "Brucewaters",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=147408259",
+   "provider": "wikimedia"
+  }
+ },
+ "betelgeuse-dimming": {
+  "w": 1600,
+  "h": 2467,
+  "aspect": 0.6486,
+  "tone": "#292021",
+  "glow": "#5d4e55",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Orion Head to Toe",
+   "creator": "Rogelio Bernal Andreo",
+   "license": "CC BY-SA 3.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=20793252",
+   "provider": "wikimedia"
+  }
+ },
+ "serif-readability": {
+  "w": 1600,
+  "h": 900,
+  "aspect": 1.7778,
+  "tone": "#9f9d9c",
+  "glow": "#bfbeba",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Inscription, Trajan's Column",
+   "creator": "MumblerJamie",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=118124440",
+   "provider": "wikimedia"
+  }
+ },
+ "ultramarine-gold": {
+  "w": 1600,
+  "h": 1372,
+  "aspect": 1.1662,
+  "tone": "#5d5b76",
+  "glow": "#bfbdca",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "Lapis-lazuli hg",
+   "creator": "Hannes Grobe",
+   "license": "CC BY-SA 2.5",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=3415430",
+   "provider": "wikimedia"
+  }
+ },
+ "colour-blind-charts": {
+  "w": 1024,
+  "h": 768,
+  "aspect": 1.3333,
+  "tone": "#555333",
+  "glow": "#d9daa5",
+  "dark": true,
+  "real": true,
+  "credit": {
+   "title": "red and green tomatoes",
+   "creator": "emerson12",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/26917921@N00/872973026",
+   "provider": "flickr"
+  }
+ },
+ "phone-keypad-layout": {
+  "w": 960,
+  "h": 711,
+  "aspect": 1.3502,
+  "tone": "#a8a6a8",
+  "glow": "#ffffff",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "AT&T push button telephone western electric model 2500 dmg black",
+   "creator": "Jonathan Mauer",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=50534668",
+   "provider": "wikimedia"
+  }
+ },
+ "road-sign-shapes": {
+  "w": 1000,
+  "h": 669,
+  "aspect": 1.4948,
+  "tone": "#7a8787",
+  "glow": "#d4cdbe",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "75k Around the Bend",
+   "creator": "Jocey K",
+   "license": "CC BY-SA 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+   "page": "https://www.flickr.com/photos/48627921@N05/11074756604",
+   "provider": "flickr"
+  }
+ },
+ "emoji-unicode": {
+  "w": 1023,
+  "h": 614,
+  "aspect": 1.6661,
+  "tone": "#968a73",
+  "glow": "#e5da2a",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "smiley face stress ball",
+   "creator": "jetheriot",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/9198432@N02/6101296095",
+   "provider": "flickr"
+  }
+ },
+ "tactile-paving": {
+  "w": 1600,
+  "h": 1200,
+  "aspect": 1.3333,
+  "tone": "#8c9398",
+  "glow": "#a0b8c7",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Tactile Paving Closeup",
+   "creator": "KavehN",
+   "license": "CC BY-SA 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=47813374",
+   "provider": "wikimedia"
+  }
+ },
+ "fitts-law-edges": {
+  "w": 1024,
+  "h": 683,
+  "aspect": 1.4993,
+  "tone": "#f1f1f1",
+  "glow": "#ffffff",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Computer Mouse Isolated on White Background",
+   "creator": "Trostle",
+   "license": "CC BY 2.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+   "page": "https://www.flickr.com/photos/42183150@N00/6848810640",
+   "provider": "flickr"
+  }
+ },
+ "first-microprocessor": {
+  "w": 827,
+  "h": 333,
+  "aspect": 2.4835,
+  "tone": "#98928a",
+  "glow": "#c8c8c9",
+  "dark": false,
+  "real": true,
+  "credit": {
+   "title": "Intel 4004 open",
+   "creator": "the Science Museum",
+   "license": "CC BY 4.0",
+   "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+   "page": "https://commons.wikimedia.org/w/index.php?curid=133513690",
+   "provider": "wikimedia"
+  }
+ },
+ "trex-skull": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#cfc1b4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "passion-fruit-name": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#cba695",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "jupiter-rings": {
+  "w": 1254,
+  "h": 1201,
+  "aspect": 1.0441,
+  "tone": "#ded2c5",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "cuttlefish-colour": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#dec8b9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "intro-cuttlefish": {
+  "w": 1254,
+  "h": 1254,
+  "aspect": 1,
+  "tone": "#ebd0bd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "prince-ruperts-drop": {
+  "w": 908,
+  "h": 401,
+  "aspect": 2.2643,
+  "tone": "#fdfdfd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "gallium-melts-in-hand": {
+  "w": 878,
+  "h": 641,
+  "aspect": 1.3697,
+  "tone": "#edece9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "bismuth-hopper-crystals": {
+  "w": 724,
+  "h": 654,
+  "aspect": 1.107,
+  "tone": "#d4ccc5",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "cherenkov-blue-glow": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#2c5464",
+  "glow": "#3cb0d8",
+  "dark": true
+ },
+ "mpemba-effect": {
+  "w": 980,
+  "h": 849,
+  "aspect": 1.1543,
+  "tone": "#f1f0f0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "fulgurite-lightning-glass": {
+  "w": 998,
+  "h": 520,
+  "aspect": 1.9192,
+  "tone": "#d9d3cc",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "geode-hollow-crystals": {
+  "w": 1024,
+  "h": 674,
+  "aspect": 1.5193,
+  "tone": "#cfc5c9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "lithops-living-stones": {
+  "w": 890,
+  "h": 820,
+  "aspect": 1.0854,
+  "tone": "#d7c8bc",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "sun-dogs": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#a1a9b7",
+  "glow": "#f1e5d7",
+  "dark": false
+ },
+ "sea-heart-drift-seed": {
+  "w": 830,
+  "h": 695,
+  "aspect": 1.1942,
+  "tone": "#c8beba",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "lewis-chessmen": {
+  "w": 836,
+  "h": 1018,
+  "aspect": 0.8212,
+  "tone": "#e6ddd2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "roman-dodecahedron": {
+  "w": 945,
+  "h": 914,
+  "aspect": 1.0339,
+  "tone": "#babab2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "exchequer-tally-sticks": {
+  "w": 1023,
+  "h": 376,
+  "aspect": 2.7207,
+  "tone": "#d1c7ba",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "sutton-hoo-helmet": {
+  "w": 840,
+  "h": 1008,
+  "aspect": 0.8333,
+  "tone": "#cfcac5",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "terracotta-army-colour": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#636152",
+  "glow": "#c9c9bf",
+  "dark": true
+ },
+ "enigma-never-itself": {
+  "w": 993,
+  "h": 1024,
+  "aspect": 0.9697,
+  "tone": "#b5aea9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "vinyl-one-groove": {
+  "w": 1018,
+  "h": 980,
+  "aspect": 1.0388,
+  "tone": "#9c9c9d",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "jacquard-loom-cards": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#605645",
+  "glow": "#eae7e4",
+  "dark": true
+ },
+ "apollo-rope-memory": {
+  "w": 883,
+  "h": 843,
+  "aspect": 1.0474,
+  "tone": "#ccbdb3",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "fresnel-lighthouse-lens": {
+  "w": 825,
+  "h": 992,
+  "aspect": 0.8317,
+  "tone": "#e3ded4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "stroop-effect": {
+  "w": 1024,
+  "h": 746,
+  "aspect": 1.3727,
+  "tone": "#e5dfd8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "testing-effect": {
+  "w": 991,
+  "h": 877,
+  "aspect": 1.13,
+  "tone": "#ebe7e0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "zeigarnik-effect": {
+  "w": 850,
+  "h": 786,
+  "aspect": 1.0814,
+  "tone": "#dee8f3",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "tip-of-the-tongue": {
+  "w": 733,
+  "h": 660,
+  "aspect": 1.1106,
+  "tone": "#f7ebe0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "troxler-fading": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#b0b9c1",
+  "glow": "#e9ecf0",
+  "dark": false
+ },
+ "lunar-retroreflectors": {
+  "w": 946,
+  "h": 840,
+  "aspect": 1.1262,
+  "tone": "#eff0ef",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "moon-dust-smell": {
+  "w": 960,
+  "h": 611,
+  "aspect": 1.5712,
+  "tone": "#e2e1df",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "martian-meteorites": {
+  "w": 900,
+  "h": 684,
+  "aspect": 1.3158,
+  "tone": "#bfbfbb",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "olympus-mons": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#745d48",
+  "glow": "#cac2b7",
+  "dark": true
+ },
+ "mercury-polar-ice": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#373736",
+  "glow": "#9d9d9d",
+  "dark": true
+ },
+ "magnetic-pole-drift": {
+  "w": 731,
+  "h": 703,
+  "aspect": 1.0398,
+  "tone": "#dfd8cd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "pumice-rafts": {
+  "w": 889,
+  "h": 701,
+  "aspect": 1.2682,
+  "tone": "#e1dedc",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "basalt-columns": {
+  "w": 692,
+  "h": 709,
+  "aspect": 0.976,
+  "tone": "#c5c3c0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "singing-sand-dunes": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#ac9e87",
+  "glow": "#c4dbea",
+  "dark": false
+ },
+ "catatumbo-lightning": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#3f3f5d",
+  "glow": "#b199c5",
+  "dark": true
+ },
+ "swiss-railway-clock": {
+  "w": 909,
+  "h": 905,
+  "aspect": 1.0044,
+  "tone": "#e6e5e4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "pen-cap-hole": {
+  "w": 1024,
+  "h": 332,
+  "aspect": 3.0843,
+  "tone": "#f2f2f3",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "anglepoise-lamp": {
+  "w": 958,
+  "h": 977,
+  "aspect": 0.9806,
+  "tone": "#eaeaea",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "good-grips-peeler": {
+  "w": 907,
+  "h": 687,
+  "aspect": 1.3202,
+  "tone": "#d8d7d5",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "monobloc-chair": {
+  "w": 835,
+  "h": 879,
+  "aspect": 0.9499,
+  "tone": "#f7f6f6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "brick-frog": {
+  "w": 995,
+  "h": 729,
+  "aspect": 1.3649,
+  "tone": "#dcc7bd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "brunelleschi-dome": {
+  "w": 938,
+  "h": 1024,
+  "aspect": 0.916,
+  "tone": "#dcc9bf",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "windcatcher-badgir": {
+  "w": 956,
+  "h": 959,
+  "aspect": 0.9969,
+  "tone": "#eae3dd",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "dougong-brackets": {
+  "w": 1001,
+  "h": 935,
+  "aspect": 1.0706,
+  "tone": "#cfc7c0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "rani-ki-vav-stepwell": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#937a63",
+  "glow": "#e2c4a7",
+  "dark": false
+ },
+ "pomegranate-sarcotesta": {
+  "w": 964,
+  "h": 688,
+  "aspect": 1.4012,
+  "tone": "#dfc3be",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "peanut-underground": {
+  "w": 1024,
+  "h": 749,
+  "aspect": 1.3672,
+  "tone": "#dfdfce",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "pistachio-split": {
+  "w": 788,
+  "h": 541,
+  "aspect": 1.4566,
+  "tone": "#dfd0be",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "artichoke-flower-bud": {
+  "w": 934,
+  "h": 746,
+  "aspect": 1.252,
+  "tone": "#d0c6b9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "brazil-nut-agouti": {
+  "w": 1020,
+  "h": 751,
+  "aspect": 1.3582,
+  "tone": "#d2c7c1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "card-suits-france": {
+  "w": 872,
+  "h": 722,
+  "aspect": 1.2078,
+  "tone": "#f2efea",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "happy-birthday-tune": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#5a4935",
+  "glow": "#b8a38c",
+  "dark": true
+ },
+ "piano-soft-loud": {
+  "w": 870,
+  "h": 1024,
+  "aspect": 0.8496,
+  "tone": "#d9cbbf",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "kintsugi-gold-repair": {
+  "w": 875,
+  "h": 665,
+  "aspect": 1.3158,
+  "tone": "#cac1ba",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "willow-pattern-legend": {
+  "w": 942,
+  "h": 950,
+  "aspect": 0.9916,
+  "tone": "#bcc2d3",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "parmesan-bank-vault": {
+  "w": 931,
+  "h": 625,
+  "aspect": 1.4896,
+  "tone": "#eddabf",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "nintendo-hanafuda": {
+  "w": 1024,
+  "h": 697,
+  "aspect": 1.4692,
+  "tone": "#d8d3ce",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "michelin-guide-tyres": {
+  "w": 975,
+  "h": 851,
+  "aspect": 1.1457,
+  "tone": "#d2bbb7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "bubble-wrap-wallpaper": {
+  "w": 982,
+  "h": 756,
+  "aspect": 1.2989,
+  "tone": "#f9f9f8",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "kongo-gumi-578": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#7f7b65",
+  "glow": "#d9d2c2",
+  "dark": false
+ },
+ "kiwi-egg": {
+  "w": 973,
+  "h": 761,
+  "aspect": 1.2786,
+  "tone": "#dcd5cf",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "flamingo-pink": {
+  "w": 703,
+  "h": 984,
+  "aspect": 0.7144,
+  "tone": "#f1e3e1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "horseshoe-crab-blood": {
+  "w": 863,
+  "h": 788,
+  "aspect": 1.0952,
+  "tone": "#d7d2cc",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "axolotl-regrowth": {
+  "w": 975,
+  "h": 573,
+  "aspect": 1.7016,
+  "tone": "#eedcda",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "pistol-shrimp-snap": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#7c8e8b",
+  "glow": "#dee3e1",
+  "dark": false
+ },
+ "hot-chocolate-effect": {
+  "w": 901,
+  "h": 893,
+  "aspect": 1.009,
+  "tone": "#ede9e6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "safety-match-striker": {
+  "w": 963,
+  "h": 484,
+  "aspect": 1.9897,
+  "tone": "#e4dbd5",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "hand-warmer-iron": {
+  "w": 842,
+  "h": 636,
+  "aspect": 1.3239,
+  "tone": "#e8e7e7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "silica-gel-packet": {
+  "w": 879,
+  "h": 656,
+  "aspect": 1.3399,
+  "tone": "#f4f3f1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "cloudy-ice-cubes": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#c4c0b9",
+  "glow": "#e9eae9",
+  "dark": false
+ },
+ "heart-pacemaker": {
+  "w": 770,
+  "h": 837,
+  "aspect": 0.92,
+  "tone": "#ddcdce",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "cornea-oxygen": {
+  "w": 818,
+  "h": 793,
+  "aspect": 1.0315,
+  "tone": "#e2dfde",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "hyoid-bone": {
+  "w": 463,
+  "h": 446,
+  "aspect": 1.0381,
+  "tone": "#f0eae4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "kidney-filter": {
+  "w": 650,
+  "h": 799,
+  "aspect": 0.8135,
+  "tone": "#e6d5cb",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "tooth-enamel": {
+  "w": 822,
+  "h": 806,
+  "aspect": 1.0199,
+  "tone": "#ede7e2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "bendy-straw": {
+  "w": 970,
+  "h": 577,
+  "aspect": 1.6811,
+  "tone": "#f8f4f2",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "kevlar-fibre": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#9c8247",
+  "glow": "#f4e0ab",
+  "dark": false
+ },
+ "pyrex-railway-lantern": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#4a5057",
+  "glow": "#a3b5cd",
+  "dark": true
+ },
+ "wooden-computer-mouse": {
+  "w": 852,
+  "h": 783,
+  "aspect": 1.0881,
+  "tone": "#e0d7d0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "laennec-stethoscope": {
+  "w": 970,
+  "h": 878,
+  "aspect": 1.1048,
+  "tone": "#f5efe9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "ear-bones-jaw": {
+  "w": 645,
+  "h": 816,
+  "aspect": 0.7904,
+  "tone": "#f3f0ec",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "dishwasher-china": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#898076",
+  "glow": "#e7eaeb",
+  "dark": false
+ },
+ "fridge-magnet": {
+  "w": 964,
+  "h": 486,
+  "aspect": 1.9835,
+  "tone": "#b2aba7",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "egyptian-toe-socks": {
+  "w": 1009,
+  "h": 596,
+  "aspect": 1.693,
+  "tone": "#d9cec4",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "play-doh-wallpaper-cleaner": {
+  "w": 956,
+  "h": 583,
+  "aspect": 1.6398,
+  "tone": "#e8e1d6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "roman-multitool": {
+  "w": 880,
+  "h": 860,
+  "aspect": 1.0233,
+  "tone": "#e5e2e0",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "medieval-spectacles": {
+  "w": 741,
+  "h": 419,
+  "aspect": 1.7685,
+  "tone": "#ece7e1",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "aluminium-precious-metal": {
+  "w": 735,
+  "h": 713,
+  "aspect": 1.0309,
+  "tone": "#ecebeb",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "perkin-mauve": {
+  "w": 887,
+  "h": 580,
+  "aspect": 1.5293,
+  "tone": "#dccada",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "ancient-date-seed": {
+  "w": 828,
+  "h": 433,
+  "aspect": 1.9122,
+  "tone": "#c9beb9",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "tarot-card-game": {
+  "w": 1016,
+  "h": 836,
+  "aspect": 1.2153,
+  "tone": "#dfd1bf",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "peak-end-rule": {
+  "w": 1024,
+  "h": 1024,
+  "aspect": 1,
+  "tone": "#c2c9cb",
+  "glow": "#e7f0f5",
+  "dark": false
+ },
+ "asch-conformity": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#a69d8f",
+  "glow": "#e2e2e2",
+  "dark": false
+ },
+ "old-glass-flow": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#707358",
+  "glow": "#cfd7ba",
+  "dark": false
+ },
+ "copper-green": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#a1aca4",
+  "glow": "#f0f0f3",
+  "dark": false
+ },
+ "candle-flame-space": {
+  "w": 896,
+  "h": 1200,
+  "aspect": 0.7467,
+  "tone": "#020507",
+  "glow": "#0e2c51",
+  "dark": true
+ },
+ "wet-sand-darker": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#b9ac9d",
+  "glow": "#edebe9",
+  "dark": false
+ },
+ "a-paper-sizes": {
+  "w": 1024,
+  "h": 724,
+  "aspect": 1.4144,
+  "tone": "#f7f7f6",
+  "glow": "#ffffff",
+  "dark": false
+ },
+ "barcode-first-scan": {
+  "w": 1200,
+  "h": 896,
+  "aspect": 1.3393,
+  "tone": "#75664f",
+  "glow": "#f1f1f0",
+  "dark": true
+ },
+ "new-coke": {
+  "w": 599,
+  "h": 1003,
+  "aspect": 0.5972,
+  "tone": "#cbccca",
+  "glow": "#ffffff",
+  "dark": false
+ }
+}

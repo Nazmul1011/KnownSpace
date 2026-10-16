@@ -1,0 +1,327 @@
+/* ------------------------------------------------------------- collection */
+
+.collection {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  flex-direction: column;
+  background: rgba(248, 248, 246, 0.8);
+  -webkit-backdrop-filter: blur(26px) saturate(1.2);
+  backdrop-filter: blur(26px) saturate(1.2);
+}
+.col-head {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 18px 24px;
+  padding: 92px 56px 0;
+}
+.col-eyebrow {
+  font: 500 13px var(--sans);
+  color: var(--ink-4);
+}
+.col-title {
+  margin-top: 6px;
+  font: 360 56px/1 var(--serif);
+  letter-spacing: -0.035em;
+}
+.col-close {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+}
+.col-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+/* a standalone pill, deliberately not part of the tab track */
+.col-clear {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  height: 40px;
+  padding: 0 16px 0 13px;
+  border-radius: var(--r-pill);
+  background: rgba(255, 255, 255, 0.72);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  box-shadow: 0 0 0 0.5px var(--line);
+  font-size: 13px;
+  font-weight: 560;
+  color: var(--ink-2);
+  transition:
+    background-color 0.2s,
+    color 0.2s,
+    opacity 0.2s;
+}
+.col-clear:hover:not(:disabled) {
+  background: #fff;
+  color: #c2321f;
+}
+.col-clear:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+/* empty state: three ghost cards where the shelf would be */
+.col-empty {
+  margin: auto;
+  max-width: 460px;
+  padding: 0 24px 40px;
+  text-align: center;
+}
+.col-empty-art {
+  position: relative;
+  height: 188px;
+  margin-bottom: 26px;
+  perspective: 900px;
+}
+.ghost {
+  position: absolute;
+  left: 50%;
+  top: 8px;
+  width: 124px;
+  height: 164px;
+  margin-left: -62px;
+  border-radius: 18px;
+  background: linear-gradient(180deg, #fff, #f6f5f1);
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-2);
+}
+.ghost--l {
+  transform: translateX(-74px) rotate(-11deg) scale(0.9);
+  opacity: 0.7;
+}
+.ghost--r {
+  transform: translateX(74px) rotate(11deg) scale(0.9);
+  opacity: 0.7;
+}
+.ghost--c {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 34px;
+  animation: ghost-float 6s ease-in-out infinite alternate;
+}
+@keyframes ghost-float {
+  from {
+    transform: translateY(-3px);
+  }
+  to {
+    transform: translateY(4px);
+  }
+}
+.ghost-icon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: #e8f3ee;
+  color: var(--jade);
+}
+.ghost-line {
+  display: block;
+  width: 72px;
+  height: 7px;
+  margin-top: 22px;
+  border-radius: 4px;
+  background: var(--sunk-2);
+}
+.ghost-line.is-short {
+  width: 46px;
+  margin-top: 9px;
+}
+.col-empty-title {
+  font: 400 32px/1.1 var(--serif);
+  letter-spacing: -0.025em;
+}
+.col-empty-body {
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 1.5;
+  color: var(--ink-3);
+  text-wrap: balance;
+}
+.col-empty-actions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-top: 26px;
+}
+.rack {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 40px 120px 70px 76px;
+  scrollbar-width: none;
+}
+.rack::-webkit-scrollbar {
+  display: none;
+}
+.rack {
+  cursor: grab;
+  user-select: none;
+  -webkit-mask-image: linear-gradient(90deg, transparent 0, #000 64px, #000 calc(100% - 96px), transparent);
+  mask-image: linear-gradient(90deg, transparent 0, #000 64px, #000 calc(100% - 96px), transparent);
+}
+.rack.is-dragging {
+  cursor: grabbing;
+}
+.rack.is-dragging .rack-card {
+  pointer-events: none;
+}
+.rack img {
+  -webkit-user-drag: none;
+}
+.rack {
+  --overlap: 70px;
+}
+.rack-slot {
+  position: relative;
+  flex: none;
+  margin-right: calc(var(--overlap) * -1);
+  perspective: 1400px;
+  transition: translate 0.6s var(--ease-out);
+}
+/* the card you point at steps forward and the ones after it make room. This moves them visually
+   (translate) rather than changing the layout, so the looping shelf's copies stay exactly the same width */
+.rack-slot:has(.rack-card:hover),
+.rack-slot:has(.rack-card:focus-visible) {
+  z-index: 5;
+  translate: 40px 0;
+}
+.rack-slot:has(.rack-card:hover) ~ .rack-slot,
+.rack-slot:has(.rack-card:focus-visible) ~ .rack-slot {
+  translate: calc(46px + var(--overlap)) 0;
+}
+/* while the shelf is moving, cards stay closed up */
+.rack.is-moving .rack-slot.rack-slot:nth-child(n) {
+  translate: none;
+  transition-duration: 0.15s;
+}
+.rack-card {
+  display: block;
+  width: 248px;
+  text-align: left;
+  transform: rotateY(calc(-34deg - var(--tilt, 0deg)));
+  transform-origin: 50% 50%;
+  transition: transform 0.6s var(--ease-out);
+}
+.rack-card:hover,
+.rack-card:focus-visible {
+  transform: rotateY(0deg) translateY(-12px) scale(1.04);
+  outline: none;
+}
+.rack-art {
+  position: relative;
+  display: block;
+  width: 248px;
+  height: 330px;
+  border-radius: 24px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-3);
+  font-size: 13px;
+}
+.rack-art::after {
+  content: '';
+  position: absolute;
+  inset: 55% 0 0;
+  background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.55));
+  pointer-events: none;
+  opacity: 1;
+  transition: opacity 0.5s;
+}
+.rack-card:hover .rack-art::after,
+.rack-card:focus-visible .rack-art::after {
+  opacity: 0;
+}
+.rack-card:focus-visible .rack-art {
+  box-shadow:
+    0 0 0 2px var(--blue),
+    var(--shadow-3);
+}
+.rack-art--object {
+  background: radial-gradient(circle at 50% 42%, #fff, #f1f0eb 85%);
+  padding: 22px;
+}
+.rack-art--diagram,
+.rack-art--map {
+  padding: 18px;
+  background: #fbfaf8;
+}
+.rack-meta {
+  display: block;
+  padding: 14px 6px 0;
+  opacity: 0;
+  transform: translateY(-4px);
+  transition:
+    opacity 0.35s,
+    transform 0.4s var(--ease-out);
+}
+.rack-card:hover .rack-meta,
+.rack-card:focus-visible .rack-meta {
+  opacity: 1;
+  transform: none;
+}
+.rack-cat {
+  display: block;
+  font: 500 12px var(--sans);
+  color: var(--ink-4);
+}
+.rack-title {
+  display: block;
+  margin-top: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.012em;
+}
+@media (max-width: 720px) {
+  .col-head {
+    padding: 70px 20px 0;
+  }
+  .col-title {
+    font-size: 40px;
+  }
+  .seg {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+  .rack {
+    padding: 30px 60px 50px 30px;
+  }
+  .rack {
+    --overlap: 50px;
+  }
+  .rack-card {
+    width: 190px;
+  }
+  .rack-art {
+    width: 190px;
+    height: 254px;
+  }
+}
+
+/* small phones: the tab track takes the full row and scrolls if it must; Clear all sits below */
+@media (max-width: 430px) {
+  .col-controls {
+    width: 100%;
+  }
+  .col-controls .seg {
+    flex: 1 1 100%;
+    min-width: 0;
+  }
+}

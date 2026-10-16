@@ -1,0 +1,64 @@
+/* ---------------------------------------------------------- toasts, coach */
+
+.toasts {
+  position: fixed;
+  left: 50%;
+  bottom: 72px;
+  z-index: 70;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  transform: translateX(-50%);
+  pointer-events: none;
+}
+.has-modal .toasts {
+  bottom: auto;
+  top: 20px;
+}
+.toast {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 40px;
+  padding: 6px 6px 6px 16px;
+  border-radius: var(--r-pill);
+  background: rgba(255, 255, 255, 0.9);
+  -webkit-backdrop-filter: saturate(1.8) blur(24px);
+  backdrop-filter: saturate(1.8) blur(24px);
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-3);
+  font-size: 13.5px;
+  font-weight: 520;
+  white-space: nowrap;
+  pointer-events: auto;
+}
+.toast:not(:has(.toast-action)) {
+  padding-right: 16px;
+}
+.toast-action {
+  height: 30px;
+  padding: 0 13px;
+  border-radius: var(--r-pill);
+  background: var(--ink);
+  color: #fff;
+  font-size: 12.5px;
+  font-weight: 600;
+}
+
+.toast-timer {
+  margin: 0 6px 0 -2px;
+}
+.toast-timer .timer-ring-track {
+  stroke: rgba(20, 20, 19, 0.1);
+}
+.toast-timer .timer-ring-bar {
+  stroke: var(--ink);
+}
+
+@media (max-width: 720px) {
+  .toasts {
+    bottom: 84px;
+  }
+}

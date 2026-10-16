@@ -1,0 +1,51 @@
+.wheel-band {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  height: 40px;
+  transform: translateY(-50%);
+  border-radius: 13px;
+  background: rgba(20, 20, 19, 0.055);
+}
+.wheel {
+  position: relative;
+  height: 214px;
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 560px;
+  cursor: grab;
+  touch-action: none;
+  user-select: none;
+  border-radius: 14px;
+}
+.wheel:active {
+  cursor: grabbing;
+}
+.wheel:focus-visible {
+  outline: 2px solid var(--blue);
+  outline-offset: -2px;
+}
+.wheel-drum {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+}
+.wheel-item {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  backface-visibility: hidden;
+  font: 500 15px var(--sans);
+  letter-spacing: -0.01em;
+  color: var(--ink-4);
+  white-space: nowrap;
+}
+.wheel-item.is-current {
+  color: var(--ink);
+  font-weight: 600;
+}

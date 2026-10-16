@@ -1,0 +1,8 @@
+dist
+node_modules
+public
+qa-shots
+art/raw
+art/out
+src/shared/ui/icons.generated.ts
+src/domain/knowledge/data/art.generated.json

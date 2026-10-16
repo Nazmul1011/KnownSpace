@@ -1,0 +1,55 @@
+.hud-bl {
+  left: 16px;
+  bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.filter-chip {
+  height: 38px;
+}
+.recent {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  height: 42px;
+  padding: 0 14px 0 7px;
+  border-radius: var(--r-pill);
+  background: var(--glass);
+  -webkit-backdrop-filter: var(--glass-blur);
+  backdrop-filter: var(--glass-blur);
+  box-shadow:
+    0 0 0 0.5px var(--line),
+    var(--shadow-float);
+}
+.recent-stack {
+  display: flex;
+}
+.recent-thumb {
+  position: relative;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #fff;
+  box-shadow:
+    0 0 0 2px #fff,
+    0 1px 3px rgba(0, 0, 0, 0.12);
+  font-size: 3px;
+  transition: margin 0.3s var(--ease-out);
+}
+.recent-thumb + .recent-thumb {
+  margin-left: -9px;
+}
+.recent:hover .recent-thumb + .recent-thumb {
+  margin-left: -4px;
+}
+.recent-thumb--diagram,
+.recent-thumb--map {
+  padding: 2px;
+}
+.recent-label {
+  font-size: 13px;
+  font-weight: 540;
+  color: var(--ink-2);
+}

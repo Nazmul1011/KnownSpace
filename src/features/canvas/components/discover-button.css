@@ -1,0 +1,114 @@
+.hud-bc {
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+}
+.discover {
+  position: relative;
+  isolation: isolate;
+  height: 42px;
+  padding: 0 18px;
+  /* a solid face so the button never gets lost against busy pictures behind it */
+  background: rgba(255, 255, 255, 0.96);
+  box-shadow:
+    0 0 0 1px rgba(29, 134, 103, 0.16),
+    0 2px 6px rgba(30, 28, 22, 0.06),
+    0 6px 22px -6px rgba(29, 134, 103, 0.3);
+}
+.discover:hover {
+  background: #fff;
+}
+/* the glowing stroke: a band of jade light that travels from one side to the other */
+.discover::before,
+.discover::after {
+  content: '';
+  position: absolute;
+  inset: -1.5px;
+  border-radius: inherit;
+  padding: 1.5px;
+  background: linear-gradient(
+      100deg,
+      transparent 0%,
+      transparent 34%,
+      rgba(36, 170, 122, 0.35) 42%,
+      #2fbf8a 50%,
+      rgba(36, 170, 122, 0.35) 58%,
+      transparent 66%,
+      transparent 100%
+    )
+    0 0 / 260% 100% no-repeat;
+  -webkit-mask:
+    linear-gradient(#000 0 0) content-box,
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask:
+    linear-gradient(#000 0 0) content-box exclude,
+    linear-gradient(#000 0 0);
+  pointer-events: none;
+  animation: discover-sweep 4s cubic-bezier(0.45, 0, 0.25, 1) infinite;
+}
+/* a soft halo riding with the light */
+.discover::after {
+  inset: -5px;
+  padding: 5px;
+  filter: blur(6px);
+  opacity: 0.5;
+}
+@keyframes discover-sweep {
+  0% {
+    background-position: 110% 0;
+  }
+  65%,
+  100% {
+    background-position: -10% 0;
+  }
+}
+.live-compass-needle {
+  transform-box: view-box;
+  transform-origin: 12px 12px;
+  animation: needle-seek 4.8s cubic-bezier(0.45, 0, 0.35, 1) infinite;
+}
+/* the needle hunts for north: big swing, overshoot, small settles, rest */
+@keyframes needle-seek {
+  0% {
+    transform: rotate(0deg);
+  }
+  14% {
+    transform: rotate(118deg);
+  }
+  24% {
+    transform: rotate(72deg);
+  }
+  32% {
+    transform: rotate(98deg);
+  }
+  40% {
+    transform: rotate(86deg);
+  }
+  48%,
+  58% {
+    transform: rotate(90deg);
+  }
+  70% {
+    transform: rotate(-34deg);
+  }
+  78% {
+    transform: rotate(12deg);
+  }
+  86% {
+    transform: rotate(-6deg);
+  }
+  92%,
+  100% {
+    transform: rotate(0deg);
+  }
+}
+.discover:hover .live-compass-needle {
+  animation-duration: 1.6s;
+}
+[data-reduced] .discover::before,
+[data-reduced] .discover::after {
+  animation: none;
+  background-position: 50% 0;
+  opacity: 0.35;
+}

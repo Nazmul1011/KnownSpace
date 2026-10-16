@@ -1,0 +1,74 @@
+:root {
+  /* surfaces */
+  --canvas: #f8f8f6;
+  --canvas-warm: #f6f4f0;
+  --paper: #ffffff;
+  --sunk: #f3f2ee;
+  --sunk-2: #ecebe6;
+
+  /* ink */
+  --ink: #141413;
+  --ink-2: #3a3a37;
+  --ink-3: #5f5e59;
+  --ink-4: #74736d;
+  --ink-5: #c6c5bf;
+
+  /* hairlines: 0.5px strokes, one step darker so they hold on white */
+  --line: rgba(20, 20, 19, 0.1);
+  --line-2: rgba(20, 20, 19, 0.16);
+  --hair: 0.5px;
+
+  /* restrained accents, used for state and tiny marks only */
+  --blue: #3b6fe0;
+  --violet: #7d5be0;
+  --green: #3f9a5b;
+  --warm: #d0683a;
+
+  /* links, everywhere */
+  --jade: #1d8667;
+  --jade-hover: #166b52;
+  --jade-line: rgba(29, 134, 103, 0.32);
+
+  /* Gr8r Studio brand red (gr8rstudio.com), used only for the maker's credit */
+  --gr8r: #f90000;
+  --gr8r-hover: #d40000;
+
+  /* frosted glass, floating layers only */
+  --glass: rgba(255, 255, 255, 0.72);
+  --glass-strong: rgba(255, 255, 255, 0.86);
+  --glass-blur: saturate(1.6) blur(22px);
+
+  /* radii */
+  --r-12: 12px;
+  --r-16: 16px;
+  --r-24: 24px;
+  --r-32: 32px;
+  --r-pill: 999px;
+
+  /* spacing scale */
+  --s-4: 4px;
+  --s-8: 8px;
+  --s-12: 12px;
+  --s-16: 16px;
+  --s-24: 24px;
+  --s-32: 32px;
+  --s-48: 48px;
+  --s-64: 64px;
+  --s-96: 96px;
+
+  /* soft layered shadows, never dark drops */
+  --shadow-1: 0 1px 1px rgba(30, 28, 22, 0.04), 0 2px 6px rgba(30, 28, 22, 0.04);
+  --shadow-2: 0 1px 2px rgba(30, 28, 22, 0.04), 0 6px 16px rgba(30, 28, 22, 0.06), 0 18px 40px rgba(30, 28, 22, 0.05);
+  --shadow-3: 0 2px 4px rgba(30, 28, 22, 0.04), 0 12px 28px rgba(30, 28, 22, 0.08), 0 32px 72px rgba(30, 28, 22, 0.08);
+  --shadow-float: 0 1px 1px rgba(30, 28, 22, 0.03), 0 8px 24px rgba(30, 28, 22, 0.07), 0 24px 60px rgba(30, 28, 22, 0.06);
+
+  /* type */
+  --sans: 'Geist Variable', 'SF Pro Text', system-ui, -apple-system, sans-serif;
+  --serif: 'Newsreader Variable', 'Iowan Old Style', Georgia, serif;
+  --mono: var(--sans);
+
+  /* motion */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-spring: cubic-bezier(0.34, 1.36, 0.64, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+}
