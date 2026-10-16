@@ -17,6 +17,7 @@ import { Collection } from '@/features/collection';
 import { Settings } from '@/features/settings';
 import { Intro } from '@/features/intro';
 import { Celebration } from '@/features/session-goal';
+import { AdminPage, recordVisit } from '@/features/admin';
 
 function dateKey() {
   const d = new Date();
@@ -26,6 +27,11 @@ function dateKey() {
 const deepLink = new URLSearchParams(window.location.search).get('k');
 
 export function App() {
+  if (window.location.pathname === '/admin') return <AdminPage />;
+  return <Site />;
+}
+
+function Site() {
   const introOpen = useUI((s) => s.introOpen);
   const introLeaving = useUI((s) => s.introLeaving);
   const overlay = useUI((s) => s.overlay);
@@ -62,6 +68,10 @@ export function App() {
   }, [canvasReady, introOpen]);
 
   useKeyboardShortcuts();
+
+  useEffect(() => {
+    recordVisit();
+  }, []);
 
   return (
     <>

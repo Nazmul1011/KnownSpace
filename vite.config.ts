@@ -5,5 +5,10 @@ import { fileURLToPath } from 'node:url';
 export default defineConfig({
   plugins: [react()],
   resolve: { alias: { '@': fileURLToPath(new URL('./src', import.meta.url)) } },
-  server: { port: 5340, host: '127.0.0.1', strictPort: true },
+  server: {
+    port: 5340,
+    host: '127.0.0.1',
+    strictPort: true,
+    proxy: { '/api': { target: 'http://127.0.0.1:5342' } },
+  },
 });

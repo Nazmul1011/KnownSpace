@@ -1,0 +1,10 @@
+node_modules
+dist
+qa-shots
+art/raw
+server/data
+.env
+.git
+.cursor
+.claude
+.DS_Store

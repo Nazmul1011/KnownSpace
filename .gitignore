@@ -9,3 +9,7 @@ art/pending-part-*
 
 # Source PNGs. The site serves the WebP files in public/art.
 art/raw/
+
+# Admin server secrets and visit records
+.env
+server/data/
