@@ -2,6 +2,7 @@ import { createReadStream, existsSync, readFileSync, statSync } from 'node:fs';
 import { createServer } from 'node:http';
 import { extname, join } from 'node:path';
 import { createHash, timingSafeEqual } from 'node:crypto';
+import { brotliCompressSync, constants as zlib, gzipSync } from 'node:zlib';
 import { bearer, hashPassword, mustEnv, readCookie, refreshCookie, signAccess, signRefresh, verifyJwt, verifyPassword } from './auth.mjs';
 import { clientIp, countryFor } from './geo.mjs';
 import { loadStore, readStore, updateStore } from './store.mjs';
@@ -279,20 +280,52 @@ function serveStatic(req, res, pathname) {
   const inside = file === dist || file.startsWith(dist + '/');
   if (!inside || relative.includes('..') || !existsSync(file) || statSync(file).isDirectory()) file = join(dist, 'index.html');
   const stat = statSync(file);
-  const etag = etagFor(file, stat);
+  const encoding = compressible.has(extname(file)) ? pickEncoding(req.headers['accept-encoding']) : '';
+  const etag = encoding ? etagFor(file, stat).replace(/"$/, `-${encoding}"`) : etagFor(file, stat);
   const headers = {
     'Content-Type': types[extname(file)] || 'application/octet-stream',
     'Cache-Control': cacheControl(file, dist),
     ETag: etag,
     'Last-Modified': stat.mtime.toUTCString(),
+    ...(compressible.has(extname(file)) ? { Vary: 'Accept-Encoding' } : {}),
   };
   if (req.headers['if-none-match'] === etag) {
     res.writeHead(304, headers);
     res.end();
     return;
   }
+  if (encoding) {
+    const body = compressed(file, stat, encoding);
+    res.writeHead(200, { ...headers, 'Content-Encoding': encoding, 'Content-Length': body.length });
+    res.end(body);
+    return;
+  }
   res.writeHead(200, { ...headers, 'Content-Length': stat.size });
   createReadStream(file).pipe(res);
+}
+
+// Images and woff2 fonts are already compressed; only text formats gain from it.
+const compressible = new Set(['.html', '.js', '.css', '.json', '.svg']);
+const compressedFiles = new Map();
+
+function pickEncoding(accept = '') {
+  if (/\bbr\b/.test(accept)) return 'br';
+  if (/\bgzip\b/.test(accept)) return 'gzip';
+  return '';
+}
+
+function compressed(file, stat, encoding) {
+  const key = `${file}:${stat.size}:${stat.mtimeMs}:${encoding}`;
+  let body = compressedFiles.get(key);
+  if (!body) {
+    const raw = readFileSync(file);
+    body =
+      encoding === 'br'
+        ? brotliCompressSync(raw, { params: { [zlib.BROTLI_PARAM_QUALITY]: 9, [zlib.BROTLI_PARAM_SIZE_HINT]: raw.length } })
+        : gzipSync(raw, { level: 9 });
+    compressedFiles.set(key, body);
+  }
+  return body;
 }
 
 // Vite content-hashes everything in assets/; art files keep fixed names and can be regenerated in place.

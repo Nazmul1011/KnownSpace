@@ -43,11 +43,11 @@ let bootLoaded = false;
 /** The mark's flight from the loading screen into the headline. */
 const MARK_FLIGHT = { duration: 0.95, ease: [0.65, 0, 0.35, 1] } as const;
 
-/** The large pictures the landing ring shows, so the loading screen can wait for them. */
+/** The pictures the landing ring shows, so the loading screen can wait for them. */
 function ringImages() {
   return RING.map((id) => {
     const v = byId[id]?.visual;
-    return imageUrl((v && 'image' in v && v.image) || id, 'l');
+    return imageUrl((v && 'image' in v && v.image) || id, 's');
   });
 }
 
@@ -80,10 +80,10 @@ const SCATTER = RING.map((_, k) => {
   return { r: 0.8 + f * 1.4, dx: (q - 0.5) * 2, dy: (f - 0.5) * 2, spin: (q - 0.5) * 260 };
 });
 
-/** One landing picture: a knowledge object's own visual, or a landing-only image. */
+/** One landing picture: a knowledge object's own visual, or a landing-only image. Slots are at most ~270px, so the small size stays sharp on 2x screens. */
 function RingPicture({ id }: { id: string }) {
   const o = byId[id];
-  return o ? <Visual obj={o} size="l" /> : <img className="v-img v-obj" src={imageUrl(id, 'l')} alt="" draggable={false} />;
+  return o ? <Visual obj={o} size="s" /> : <img className="v-img v-obj" src={imageUrl(id, 's')} alt="" draggable={false} />;
 }
 
 export function Intro() {
