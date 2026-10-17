@@ -51,7 +51,7 @@ createServer(async (req, res) => {
       await route(req, res, url);
       return;
     }
-    if (serveSite) serveStatic(req, res, url.pathname);
+    if (serveSite) serveStatic(res, url.pathname);
     else send(res, 404, { ok: false, error: 'Not found' });
   } catch (error) {
     const message = error instanceof Error ? error.message : '';
@@ -268,7 +268,7 @@ function send(res, status, body) {
   res.end(payload);
 }
 
-function serveStatic(req, res, pathname) {
+function serveStatic(res, pathname) {
   const dist = join(process.cwd(), 'dist');
   if (!existsSync(dist)) {
     send(res, 503, { ok: false, error: 'Run npm run build before starting the server.' });
@@ -278,40 +278,8 @@ function serveStatic(req, res, pathname) {
   let file = join(dist, relative);
   const inside = file === dist || file.startsWith(dist + '/');
   if (!inside || relative.includes('..') || !existsSync(file) || statSync(file).isDirectory()) file = join(dist, 'index.html');
-  const stat = statSync(file);
-  const etag = etagFor(file, stat);
-  const headers = {
-    'Content-Type': types[extname(file)] || 'application/octet-stream',
-    'Cache-Control': cacheControl(file, dist),
-    ETag: etag,
-    'Last-Modified': stat.mtime.toUTCString(),
-  };
-  if (req.headers['if-none-match'] === etag) {
-    res.writeHead(304, headers);
-    res.end();
-    return;
-  }
-  res.writeHead(200, { ...headers, 'Content-Length': stat.size });
+  res.writeHead(200, { 'Content-Type': types[extname(file)] || 'application/octet-stream', 'Cache-Control': 'no-cache' });
   createReadStream(file).pipe(res);
-}
-
-// Vite content-hashes everything in assets/; art files keep fixed names and can be regenerated in place.
-function cacheControl(file, dist) {
-  if (file.startsWith(join(dist, 'assets') + '/')) return 'public, max-age=31536000, immutable';
-  if (file.startsWith(join(dist, 'art') + '/')) return 'public, max-age=604800';
-  return 'no-cache';
-}
-
-const etags = new Map();
-
-function etagFor(file, stat) {
-  const key = `${file}:${stat.size}:${stat.mtimeMs}`;
-  let etag = etags.get(key);
-  if (!etag) {
-    etag = `"${createHash('sha1').update(readFileSync(file)).digest('base64url')}"`;
-    etags.set(key, etag);
-  }
-  return etag;
 }
 
 function loadEnv() {
